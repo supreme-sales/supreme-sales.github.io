@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+			<base href="https://supremeteknolite.com/2-led/detail/27-led" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	
+	<title>Gallery</title>
+	<link href="/templates/corporate-blue/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/com_phocagallery/css/main/phocagallery.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_phocagallery/css/main/rating.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_phocagallery/css/custom/default.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/com_redshop/redshop.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_redshop/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/jquery.mmenu.all.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/theme.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/color-blue.css" rel="stylesheet" type="text/css" />
+	<link href="/media/siteground/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+div.mod_search107 input[type="search"]{ width:auto; }
+	</style>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/components/com_phocagallery/assets/fadeslideshow/fadeslideshow.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/theme.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/jquery.mmenu.min.all.js" type="text/javascript"></script>
+	<script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/com_redshop/redshop.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});
+			(function() {
+				var RedshopStrings = {"SITE_URL":"https:\/\/supremeteknolite.com\/","AJAX_CART_BOX":"1","REDSHOP_VIEW":"detail","REDSHOP_LAYOUT":"","CURRENCY_SYMBOL_CONVERT":" \u20b9 ","CURRENCY_CONVERT":1,"PRICE_SEPERATOR":".","CURRENCY_SYMBOL_POSITION":"behind","PRICE_DECIMAL":"2","THOUSAND_SEPERATOR":",","USE_STOCKROOM":"0","USE_AS_CATALOG":0,"AJAX_CART_DISPLAY_TIME":"3000","SHOW_PRICE":1,"DEFAULT_QUOTATION_MODE":1,"PRICE_REPLACE":"","ALLOW_PRE_ORDER":"0","ATTRIBUTE_SCROLLER_THUMB_WIDTH":"50","ATTRIBUTE_SCROLLER_THUMB_HEIGHT":"50","PRODUCT_DETAIL_IS_LIGHTBOX":"1","REQUIRED_VAT_NUMBER":"1","NOOF_SUBATTRIB_THUMB_FOR_SCROLLER":"3","SHOW_QUOTATION_PRICE":"1","AJAX_DETAIL_BOX_WIDTH":"500","AJAX_DETAIL_BOX_HEIGHT":"600","AJAX_BOX_WIDTH":"500","AJAX_BOX_HEIGHT":"150","PRICE_REPLACE_URL":"","ZERO_PRICE_REPLACE_URL":"","ZERO_PRICE_REPLACE":""};
+				if (typeof redSHOP == "undefined") {
+					redSHOP = {};
+					redSHOP.RSConfig.strings = RedshopStrings;
+				}
+				else {
+					redSHOP.RSConfig.load(RedshopStrings);
+				}
+			})();
+		
+	</script>
+	<script type="text/javascript">
+		(function() {
+			Joomla.JText.load({"COM_REDSHOP_YOUR_MUST_PROVIDE_A_FIRSTNAME":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_FIRSTNAME","COM_REDSHOP_PRODUCT_OUTOFSTOCK_MESSAGE":"COM_REDSHOP_PRODUCT_OUTOFSTOCK_MESSAGE","COM_REDSHOP_PREORDER_PRODUCT_OUTOFSTOCK_MESSAGE":"COM_REDSHOP_PREORDER_PRODUCT_OUTOFSTOCK_MESSAGE","COM_REDSHOP_PASSWORD_MIN_CHARACTER_LIMIT":"COM_REDSHOP_PASSWORD_MIN_CHARACTER_LIMIT","COM_REDSHOP_YOUR_MUST_PROVIDE_A_VALID_PHONE":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_VALID_PHONE","COM_REDSHOP_IS_REQUIRED":"COM_REDSHOP_IS_REQUIRED","COM_REDSHOP_ENTER_NUMBER":"COM_REDSHOP_ENTER_NUMBER","COM_REDSHOP_PLEASE_ENTER_COMPANY_NAME":"COM_REDSHOP_PLEASE_ENTER_COMPANY_NAME","COM_REDSHOP_YOUR_MUST_PROVIDE_A_LASTNAME":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_LASTNAME","COM_REDSHOP_YOUR_MUST_PROVIDE_A_ADDRESS":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_ADDRESS","COM_REDSHOP_YOUR_MUST_PROVIDE_A_ZIP":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_ZIP","COM_REDSHOP_YOUR_MUST_PROVIDE_A_CITY":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_CITY","COM_REDSHOP_YOUR_MUST_PROVIDE_A_PHONE":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_PHONE","COM_REDSHOP_YOU_MUST_PROVIDE_LOGIN_NAME":"COM_REDSHOP_YOU_MUST_PROVIDE_LOGIN_NAME","COM_REDSHOP_PROVIDE_EMAIL_ADDRESS":"COM_REDSHOP_PROVIDE_EMAIL_ADDRESS","COM_REDSHOP_EMAIL_NOT_MATCH":"COM_REDSHOP_EMAIL_NOT_MATCH","COM_REDSHOP_PASSWORD_NOT_MATCH":"COM_REDSHOP_PASSWORD_NOT_MATCH","COM_REDSHOP_NOT_AVAILABLE":"COM_REDSHOP_NOT_AVAILABLE","COM_REDSHOP_PLEASE_INSERT_HEIGHT":"COM_REDSHOP_PLEASE_INSERT_HEIGHT","COM_REDSHOP_PLEASE_INSERT_WIDTH":"COM_REDSHOP_PLEASE_INSERT_WIDTH","COM_REDSHOP_PLEASE_INSERT_DEPTH":"COM_REDSHOP_PLEASE_INSERT_DEPTH","COM_REDSHOP_PLEASE_INSERT_RADIUS":"COM_REDSHOP_PLEASE_INSERT_RADIUS","COM_REDSHOP_PLEASE_INSERT_UNIT":"COM_REDSHOP_PLEASE_INSERT_UNIT","COM_REDSHOP_THIS_FIELD_IS_REQUIRED":"COM_REDSHOP_THIS_FIELD_IS_REQUIRED","COM_REDSHOP_SELECT_SUBSCRIPTION_PLAN":"COM_REDSHOP_SELECT_SUBSCRIPTION_PLAN","COM_REDSHOP_USERNAME_MIN_CHARACTER_LIMIT":"COM_REDSHOP_USERNAME_MIN_CHARACTER_LIMIT","COM_REDSHOP_EAN_MIN_CHARACTER_LIMIT":"COM_REDSHOP_EAN_MIN_CHARACTER_LIMIT","COM_REDSHOP_AVAILABLE_STOCK":"COM_REDSHOP_AVAILABLE_STOCK"});
+		})();
+	</script>
+	<style type="text/css"> 
+ html, body, .contentpane, #all, #main {padding:0px !important;margin:0px !important; width: 100% !important; max-width: 100% !important;} 
+body {min-width:100%} 
+.rt-container {width:100%} 
+ </style>
+
+		<!-- Google Font -->
+				<link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+		<style type="text/css">
+			h1,h2,h3,h4,h5,h6,.site-title,a.brand{
+		font-family: 'Open Sans', sans-serif;
+		}
+		</style>
+				<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+		<![endif]-->
+      <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/68e83054af0a8f99fc55032a1/ed8c210a5579f0933c6fb705c.js");</script>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37296213-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	</head>
+	<body>
+<!-- Facebook SDK -->
+<div id='fb-root'></div>
+<script type='text/javascript'>
+
+      // Load the SDK Asynchronously
+      (function(d){
+      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = '//connect.facebook.net/en_GB/all.js';
+      d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+
+</script>
+<!-- End Facebook SDK -->
+
+		<div class="wrapper" id="page">
+			<!-- Page Header -->
+			<header id="masthead">
+				<nav class="navbar navbar-static-top">
+					<div class="navbar-inner">
+						<div class="container-fluid">
+							<div class="container">
+								<a href="#menu" class="btn btn-navbar">
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</a>
+							</div>
+							<h1 class="brand">
+								<a class="brand pull-left" href="/">
+									<img src="https://supremeteknolite.com/images/supreme/supreme-logo.png" alt="Supreme Sales Corporation" /><p class="site-title hidden-phone" title="Supreme Sales Corporation">Sales Corporation</p>																	</a>
+							</h1>
+														<div class="top-search">
+								<div class="search mod_search107">
+	<form action="/gallery" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" size="20" placeholder="Search ..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="162" />
+	</form>
+</div>
+<ul class="mod-siteground-social inline" id="mod-201">
+			<li>
+			<a title="Find me on Facebook" class="fa-stack fa-lg" href="https://facebook.com/SupremeSalesCorporation" >
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+			  <span class="hidden">Facebook</span>
+			</a>
+		</li>
+						<li>
+			<a title="Send me an email with your default email program" class="fa-stack fa-lg" href="mailto:supreme1995@gmail.com">
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+			  <span class="hidden">Email</span>
+			</a>
+		</li>
+				<li>
+			<a title="Contact me through my contact form" class="fa-stack fa-lg" href="/contact-form">
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-send fa-stack-1x fa-inverse"></i>
+			  <span class="hidden">Contact form</span>
+			</a>
+		</li>
+		</ul>
+
+							</div>
+													</div>
+					</div>
+				</nav>
+			</header>
+			<!-- Main Menu -->
+			<nav class="navbar hidden-phone" data-spy="affix" data-offset-top="250">
+				<div class="navbar-inner">
+					<!-- <div class="container-fluid"> -->
+						<div class="nav-collapse collapse">
+							<ul class="nav menu">
+<li class="item-101 default"><a href="/" >Home</a></li><li class="item-119 deeper parent"><a href="/led/categoryproduct" >Teknolite Products</a><ul class="nav-child unstyled small"><li class="item-140"><a href="/led-panel" >LED PANEL</a></li></ul></li><li class="item-111"><a href="/contact-form" >Contact</a></li><li class="item-139"><a href="http://teknolite.in" target="_blank">Channel Partner</a></li><li class="item-162 current active"><a href="/gallery" >Gallery</a></li></ul>
+
+						</div>
+					<!-- </div> -->
+				</div>
+			</nav>
+			<!-- Main Content -->
+			<div id="content" role="main">
+				<!-- header -->
+								<!-- breadcrumb -->
+								<!-- content/component/sidebars -->
+				<div class="row-fluid component">
+										<main id="content" role="main" class="span12">
+					<!-- Begin Content -->
+					<div id="system-message-container">
+	</div>
+
+					<script type="text/javascript">
+/***********************************************
+* Ultimate Fade In Slideshow v2.0- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+var phocagallery=new fadeSlideShow({
+	wrapperid: "phocaGallerySlideshowC",
+	dimensions: [640, 480],
+	imagearray: [["/images/phocagallery/led/thumbs/phoca_thumb_l_bl-b22.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_bl.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_blc-e14.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_bll-e14.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_cl10.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_cl12.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_cl12m.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_ddr.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_dsq.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_dsr.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_fdn.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_gdr.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_gdrd.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_hibay.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jc.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jc1.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jcrd.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jld.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jmc.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jmcl.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jwd.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_lb.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_lbsf.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_lft.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_mr16.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_nb1.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_nb3.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_nb4.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_nb4m.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_nbsf.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obh-100.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obh-101.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obh102.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obh103-s.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obh104.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obl-100.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obl-101.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obl-102.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obl-103.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obl103.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_ofl101-4w.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_owl-100.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_owl-101.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_owl102.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_owl104.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_pht.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_plx2x2.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_plxrd.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_plxrdsf.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_plxsq.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_sn.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_sn ufo.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_sp300.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_street.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_strip.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_track.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_tube.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_tube rft.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_vrtrd.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_vtrsq.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl-107.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl-126.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl-139.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl-150.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl-168.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl118.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl124.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl162.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl173.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl192.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl193.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl195.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl196.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl197.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl256.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl304-w.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl304.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_ws.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wsm.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wssf.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_zf.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_zm.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_zm30m.jpg", "", "", ""]
+],
+	displaymode: {type:'auto', pause: 2500, cycles:0, wraparound:false, randomize: 0},
+	persist: false,
+	fadeduration: 3000,
+	descreveal: "peekaboo",
+	togglerid: "",
+})
+</script>
+<div id="phocagallery" class="pg-detail-view"><center style="padding-top:10px"><table border="0" width="100%" cellpadding="0" cellspacing="0"><tr><td colspan="6" align="center" valign="middle" height="480" style="height:480px;vertical-align: middle;" ><div id="phocaGalleryImageBox" style="width:480px;margin: auto;padding: 0;"><a href="#" onclick="window.parent.SqueezeBox.close();" style="margin:auto;padding:0"><img src="/images/phocagallery/led/thumbs/phoca_thumb_l_nb3.jpg" alt="Led" class="pg-detail-image" /></a></div></td></tr><tr><td colspan="6"><div style="padding:0;margin:0;height:3px;font-size:0px;">&nbsp;</div></td></tr><tr><td align="left" width="30%" style="padding-left:48px"><div class="pg-imgbgd"><a href="/2-led/detail/26-led?tmpl=component" title="Previous Image" id="prev" ><img src="/media/com_phocagallery/images/icon-prev.png" alt="Previous Image" /></a></div></td><td align="center"><img src="/media/com_phocagallery/images/icon-stop-grey.png" alt="Stop Slideshow" /></td><td align="center"><div class="pg-imgbgd"><a href="/2-led/detail/27-led?phocaslideshow=1&amp;tmpl=component" title="Start Slideshow"><img src="/media/com_phocagallery/images/icon-play.png" alt="Start Slideshow" /></a></div></td><td align="center"><div class="pg-imgbgd"><a href="/2-led/detail/27-led?tmpl=component" onclick="window.location.reload(true);" title="Refresh" ><img src="/media/com_phocagallery/images/icon-reload.png" alt="Refresh" /></a></div></td><td align="center"><div class="pg-imgbgd"><a href="/2-led/detail/27-led?tmpl=component" onclick="window.parent.SqueezeBox.close();" title="Close Window" ><img src="/media/com_phocagallery/images/icon-exit.png" alt="Close Window" /></a></div></td><td align="right" width="30%" style="padding-right:48px"><div class="pg-imgbgd"><a href="/2-led/detail/28-led?tmpl=component" title="Next Image" id="next" ><img src="/media/com_phocagallery/images/icon-next.png" alt="Next Image" /></a></div></td></tr></table></center></div><div id="phocaGallerySlideshowC" style="display:none"></div>
+					</main>
+									</div>
+				<!-- boxes -->
+								<!-- top -->
+								<!-- Info -->
+								<!-- middle -->
+								<!-- bottom -->
+								<section class="section section-padded bottom">
+					<div class="container-fluid">
+						<div class="row-fluid">
+							
+
+<div class="custom span3"  >
+	<p><img src="/images/supreme/supreme-logo.jpg" alt="email" width="245" height="274" /></p></div>
+
+
+<div class="custom span9"  >
+	<h2 style="text-align: center;">Become Authorized Channel Partner of Teknolite</h2>
+<p style="text-align: center;">So if you were waiting for the perfect time to seize this opportunity, the time is now.</p>
+<p style="text-align: center;"><strong>There are no obligations</strong></p>
+<p style="text-align: center;"><strong>Get a taste of SUCCESS!</strong></p>
+<p style="text-align: center;"><strong><span style="text-align: center;">So, act now...</span></strong></p>
+<p style="text-align: center;"><a class="btn btn-primary" title="Teknolite Dealer Registration Form" href="http://bit.ly/teknolite-dealer-registration" target="_blank">Teknolite Dealer Registration Form</a></p></div>
+
+						</div>
+					</div>
+				</section>
+							</div>
+		</div>
+		<!-- footer -->
+		<footer id="footer" role="contentinfo">
+			<div class="wrapper wrapper-transparent">
+				<div class="container-fluid">
+					<div class="row-fluid">
+						<div class="left">
+							&copy; 2017 Supreme Sales Corporation						</div>
+						<div class="right">
+							Developed with ♥ By <a href="mailto:gunjan.ce2009@gmail.com">Gunjan Patel</a>
+						</div>
+											</div>
+				</div>
+			</div>
+		</footer>
+				<nav id="menu">
+			<ul class="nav menu">
+<li class="item-101 default"><a href="/" >Home</a></li><li class="item-119 deeper parent"><a href="/led/categoryproduct" >Teknolite Products</a><ul class="nav-child unstyled small"><li class="item-140"><a href="/led-panel" >LED PANEL</a></li></ul></li><li class="item-111"><a href="/contact-form" >Contact</a></li><li class="item-139"><a href="http://teknolite.in" target="_blank">Channel Partner</a></li><li class="item-162 current active"><a href="/gallery" >Gallery</a></li></ul>
+
+		</nav>
+				
+		<script>
+			jQuery(function() {
+			jQuery('.deeper').addClass('dropdown');
+			jQuery('.nav-child').addClass('dropdown-menu');
+				});
+		</script>
+		<script type="text/javascript">
+				jQuery(document).ready(function() {
+		jQuery("nav#menu").mmenu({
+		classes : 'mm-light',
+							position : 'right'
+		});
+		});
+		</script>
+	</body>

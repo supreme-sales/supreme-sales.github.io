@@ -1,0 +1,1828 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+	<head>
+  <link rel="next" href="/led/categoryproduct/results11-20" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+			<base href="https://supremeteknolite.com/led/categoryproduct/results11-20" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Supreme Sales Corporation" />
+	<meta name="robots" content="Supreme Sales Corporation" />
+	<meta name="description" content="Supreme Sales Corporation" />
+	
+	<title>Teknolite Products</title>
+	<link href="/templates/corporate-blue/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/com_redshop/css/priceslider.css" rel="stylesheet" type="text/css" />
+	<link href="/media/system/css/modal.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/com_redshop/redshop.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_redshop/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/jquery.mmenu.all.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/theme.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/color-blue.css" rel="stylesheet" type="text/css" />
+	<link href="/media/siteground/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+div.mod_search107 input[type="search"]{ width:auto; }
+	</style>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/com_redshop/js/redbox.js" type="text/javascript"></script>
+	<script src="/media/com_redshop/js/attribute.js" type="text/javascript"></script>
+	<script src="/media/com_redshop/js/common.js" type="text/javascript"></script>
+	<script src="/media/system/js/modal.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/theme.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/jquery.mmenu.min.all.js" type="text/javascript"></script>
+	<script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/com_redshop/redshop.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});
+
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		
+		  	ga('create', 'UA-37296213-1', 'auto');
+			ga('send', 'pageview');
+
+		
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		
+			(function() {
+				var RedshopStrings = {"SITE_URL":"https:\/\/supremeteknolite.com\/","AJAX_CART_BOX":"1","REDSHOP_VIEW":"category","REDSHOP_LAYOUT":"categoryproduct","CURRENCY_SYMBOL_CONVERT":" \u20b9 ","CURRENCY_CONVERT":1,"PRICE_SEPERATOR":".","CURRENCY_SYMBOL_POSITION":"behind","PRICE_DECIMAL":"2","THOUSAND_SEPERATOR":",","USE_STOCKROOM":"0","USE_AS_CATALOG":0,"AJAX_CART_DISPLAY_TIME":"3000","SHOW_PRICE":1,"DEFAULT_QUOTATION_MODE":1,"PRICE_REPLACE":"","ALLOW_PRE_ORDER":"0","ATTRIBUTE_SCROLLER_THUMB_WIDTH":"50","ATTRIBUTE_SCROLLER_THUMB_HEIGHT":"50","PRODUCT_DETAIL_IS_LIGHTBOX":"1","REQUIRED_VAT_NUMBER":"1","NOOF_SUBATTRIB_THUMB_FOR_SCROLLER":"3","SHOW_QUOTATION_PRICE":"1","AJAX_DETAIL_BOX_WIDTH":"500","AJAX_DETAIL_BOX_HEIGHT":"600","AJAX_BOX_WIDTH":"500","AJAX_BOX_HEIGHT":"150","PRICE_REPLACE_URL":"","ZERO_PRICE_REPLACE_URL":"","ZERO_PRICE_REPLACE":""};
+				if (typeof redSHOP == "undefined") {
+					redSHOP = {};
+					redSHOP.RSConfig.strings = RedshopStrings;
+				}
+				else {
+					redSHOP.RSConfig.load(RedshopStrings);
+				}
+			})();
+		
+	</script>
+	<script type="text/javascript">
+		(function() {
+			Joomla.JText.load({"COM_REDSHOP_YOUR_MUST_PROVIDE_A_FIRSTNAME":"Please enter first name","COM_REDSHOP_PRODUCT_OUTOFSTOCK_MESSAGE":"Sorry, This product is out of stock....","COM_REDSHOP_PREORDER_PRODUCT_OUTOFSTOCK_MESSAGE":"Sorry.... Pre-order Stock is out of Order.","COM_REDSHOP_PASSWORD_MIN_CHARACTER_LIMIT":"Your password must be at least 5 characters long","COM_REDSHOP_YOUR_MUST_PROVIDE_A_VALID_PHONE":"Please specify a valid phone number","COM_REDSHOP_IS_REQUIRED":"is Required.","COM_REDSHOP_ENTER_NUMBER":"Please Enter Numbers","COM_REDSHOP_PLEASE_ENTER_COMPANY_NAME":"Please enter company name","COM_REDSHOP_YOUR_MUST_PROVIDE_A_LASTNAME":"Please enter last name","COM_REDSHOP_YOUR_MUST_PROVIDE_A_ADDRESS":"Please enter address","COM_REDSHOP_YOUR_MUST_PROVIDE_A_ZIP":"Please enter post code","COM_REDSHOP_YOUR_MUST_PROVIDE_A_CITY":"Please enter city","COM_REDSHOP_YOUR_MUST_PROVIDE_A_PHONE":"Please enter the phone","COM_REDSHOP_YOU_MUST_PROVIDE_LOGIN_NAME":"Please enter username","COM_REDSHOP_PROVIDE_EMAIL_ADDRESS":"Please enter email address","COM_REDSHOP_EMAIL_NOT_MATCH":"Email address do not match","COM_REDSHOP_PASSWORD_NOT_MATCH":"Password not match","COM_REDSHOP_NOT_AVAILABLE":"Not Available","COM_REDSHOP_PLEASE_INSERT_HEIGHT":"Please Insert Height","COM_REDSHOP_PLEASE_INSERT_WIDTH":"Please Insert Width","COM_REDSHOP_PLEASE_INSERT_DEPTH":"Please Insert Depth","COM_REDSHOP_PLEASE_INSERT_RADIUS":"Please Insert Radius","COM_REDSHOP_PLEASE_INSERT_UNIT":"Please Insert Unit","COM_REDSHOP_THIS_FIELD_IS_REQUIRED":"This field is required","COM_REDSHOP_SELECT_SUBSCRIPTION_PLAN":"Please Select Your Subscription Plan","COM_REDSHOP_USERNAME_MIN_CHARACTER_LIMIT":"Your username must consist of at least 2 characters","COM_REDSHOP_EAN_MIN_CHARACTER_LIMIT":"Enter only 13 digits without spaces","COM_REDSHOP_AVAILABLE_STOCK":"In Stock."});
+		})();
+	</script>
+
+		<!-- Google Font -->
+				<link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+		<style type="text/css">
+			h1,h2,h3,h4,h5,h6,.site-title,a.brand{
+		font-family: 'Open Sans', sans-serif;
+		}
+		</style>
+				<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+		<![endif]-->
+      <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/68e83054af0a8f99fc55032a1/ed8c210a5579f0933c6fb705c.js");</script>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37296213-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	</head>
+	<body>
+<!-- Facebook SDK -->
+<div id='fb-root'></div>
+<script type='text/javascript'>
+
+      // Load the SDK Asynchronously
+      (function(d){
+      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = '//connect.facebook.net/en_GB/all.js';
+      d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+
+</script>
+<!-- End Facebook SDK -->
+
+		<div class="wrapper" id="page">
+			<!-- Page Header -->
+			<header id="masthead">
+				<nav class="navbar navbar-static-top">
+					<div class="navbar-inner">
+						<div class="container-fluid">
+							<div class="container">
+								<a href="#menu" class="btn btn-navbar">
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</a>
+							</div>
+							<h1 class="brand">
+								<a class="brand pull-left" href="/">
+									<img src="https://supremeteknolite.com/images/supreme/supreme-logo.png" alt="Supreme Sales Corporation" /><p class="site-title hidden-phone" title="Supreme Sales Corporation">Sales Corporation</p>																	</a>
+							</h1>
+														<div class="top-search">
+								<div class="search mod_search107">
+	<form action="/led/categoryproduct" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" size="20" placeholder="Search ..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="119" />
+	</form>
+</div>
+<ul class="mod-siteground-social inline" id="mod-201">
+			<li>
+			<a title="Find me on Facebook" class="fa-stack fa-lg" href="https://facebook.com/SupremeSalesCorporation" >
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+			  <span class="hidden">Facebook</span>
+			</a>
+		</li>
+						<li>
+			<a title="Send me an email with your default email program" class="fa-stack fa-lg" href="mailto:supreme1995@gmail.com">
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+			  <span class="hidden">Email</span>
+			</a>
+		</li>
+				<li>
+			<a title="Contact me through my contact form" class="fa-stack fa-lg" href="/contact-form">
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-send fa-stack-1x fa-inverse"></i>
+			  <span class="hidden">Contact form</span>
+			</a>
+		</li>
+		</ul>
+
+							</div>
+													</div>
+					</div>
+				</nav>
+			</header>
+			<!-- Main Menu -->
+			<nav class="navbar hidden-phone" data-spy="affix" data-offset-top="250">
+				<div class="navbar-inner">
+					<!-- <div class="container-fluid"> -->
+						<div class="nav-collapse collapse">
+							<ul class="nav menu">
+<li class="item-101 default"><a href="/" >Home</a></li><li class="item-119 current active deeper parent"><a href="/led/categoryproduct" >Teknolite Products</a><ul class="nav-child unstyled small"><li class="item-140"><a href="/led-panel" >LED PANEL</a></li></ul></li><li class="item-111"><a href="/contact-form" >Contact</a></li><li class="item-139"><a href="http://teknolite.in" target="_blank">Channel Partner</a></li><li class="item-162"><a href="/gallery" >Gallery</a></li></ul>
+
+						</div>
+					<!-- </div> -->
+				</div>
+			</nav>
+			<!-- Main Content -->
+			<div id="content" role="main">
+				<!-- header -->
+								<!-- breadcrumb -->
+								<!-- content/component/sidebars -->
+				<div class="row-fluid component">
+										<main id="content" role="main" class="span12">
+					<!-- Begin Content -->
+					<div id="system-message-container">
+	</div>
+
+					<div id="redshopcomponent" class="redshop redSHOPSiteViewCategory isJ30"><div class="pull-right"><a onclick='window.open("https://supremeteknolite.com/index.php?option=com_redshop&view=category&layout=categoryproduct&print=1&tmpl=component&Itemid=119","mywindow","scrollbars=1","location=1")' title='Print'><img src='https://supremeteknolite.com/media/system/images/printButton.png' alt='Print' title='Print' /></a></div>
+<!-- {if subcats} -->
+<div class="row-fluid">
+	<div class="span12">
+		<h2>LEDs</h2>
+	</div>
+<!--  -->
+	<div class="span12">
+		<p><a rel="myallimg" href='https://supremeteknolite.com/components/com_redshop/assets/images/category/1345367051_FD-28,36,48,60W.jpg'   title='LED FLOOD LIGHTS' ><img src='https://supremeteknolite.com/components/com_redshop/assets/images/category/thumb/1345367051_FD-28,36,48,60W_w141_h141.jpg'  alt='LED FLOOD LIGHTS'  title='LED FLOOD LIGHTS' ></a></p>
+		<h3><a href="/led-flood-lights"  title='LED FLOOD LIGHTS' >LED FLOOD LIGHTS</a></h3>
+		<!--
+		<p></p>
+		<p><a href="/led-flood-lights"  title='LED FLOOD LIGHTS' >Read more</a></p> -->
+		<hr />
+		<div class="row-fluid productItem">
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-flood-lights/fd10sd/led-flood-light' title='LED FLOOD LIGHT'>LED FLOOD LIGHT</a> - <a class="product_main_number label label-inverse" href="/led-flood-lights/fd10sd/led-flood-light"><span id="product_number_variable831">FD10SD</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_831'><div><a id='a_main_image831'  title='LED FLOOD LIGHT'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343454284_FDSD-10,25,50,100W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image831' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343454284_FDSD-10,25,50,100W_w500_h600.jpg'  title='LED FLOOD LIGHT'  alt='LED FLOOD LIGHT'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_831' id='addtocart_prd_831' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_831" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_831" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_831','831','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_831','831','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox831"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_831','831','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_831','831','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_831"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock831' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock831' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder831' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='831'>
+				<input type='hidden' name='category_id' value='379'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price831' value='2500' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price831' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat831' value='2500' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage831' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity831' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre831">2,500.00 ₹ </span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-flood-lights/fd25sd/led-flood-light' title='LED FLOOD LIGHT'>LED FLOOD LIGHT</a> - <a class="product_main_number label label-inverse" href="/led-flood-lights/fd25sd/led-flood-light"><span id="product_number_variable832">FD25SD</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_832'><div><a id='a_main_image832'  title='LED FLOOD LIGHT'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343454304_FDSD-10,25,50,100W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image832' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343454304_FDSD-10,25,50,100W_w500_h600.jpg'  title='LED FLOOD LIGHT'  alt='LED FLOOD LIGHT'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_832' id='addtocart_prd_832' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_832" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_832" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_832','832','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_832','832','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox832"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_832','832','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_832','832','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_832"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock832' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock832' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder832' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='832'>
+				<input type='hidden' name='category_id' value='379'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price832' value='5750' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price832' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat832' value='5750' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage832' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity832' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre832">5,750.00 ₹ </span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-flood-lights/fd50sd/led-flood-light' title='LED FLOOD LIGHT'>LED FLOOD LIGHT</a> - <a class="product_main_number label label-inverse" href="/led-flood-lights/fd50sd/led-flood-light"><span id="product_number_variable833">FD50SD</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_833'><div><a id='a_main_image833'  title='LED FLOOD LIGHT'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343454324_FDSD-10,25,50,100W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image833' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343454324_FDSD-10,25,50,100W_w500_h600.jpg'  title='LED FLOOD LIGHT'  alt='LED FLOOD LIGHT'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_833' id='addtocart_prd_833' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_833" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_833" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_833','833','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_833','833','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox833"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_833','833','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_833','833','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_833"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock833' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock833' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder833' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='833'>
+				<input type='hidden' name='category_id' value='379'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price833' value='11500' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price833' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat833' value='11500' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage833' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity833' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre833">11,500.00 ₹ </span></p>
+				</div> -->
+			</div>
+		<!--  -->
+		</div>
+		<hr />
+	</div>
+<!--  -->
+	<div class="span12">
+		<p><a rel="myallimg" href='https://supremeteknolite.com/components/com_redshop/assets/images/category/1345367082_WW-12,24W.jpg'   title='LED WALL WASHER' ><img src='https://supremeteknolite.com/components/com_redshop/assets/images/category/thumb/1345367082_WW-12,24W_w141_h141.jpg'  alt='LED WALL WASHER'  title='LED WALL WASHER' ></a></p>
+		<h3><a href="/led-wall-washer"  title='LED WALL WASHER' >LED WALL WASHER</a></h3>
+		<!--
+		<p></p>
+		<p><a href="/led-wall-washer"  title='LED WALL WASHER' >Read more</a></p> -->
+		<hr />
+		<div class="row-fluid productItem">
+		<!--  -->
+		</div>
+		<hr />
+	</div>
+<!--  -->
+	<div class="span12">
+		<p><a rel="myallimg" href='https://supremeteknolite.com/components/com_redshop/assets/images/category/1345367115_LB-5,10,25,50W.jpg'   title='LED HANGING' ><img src='https://supremeteknolite.com/components/com_redshop/assets/images/category/thumb/1345367115_LB-5,10,25,50W_w141_h141.jpg'  alt='LED HANGING'  title='LED HANGING' ></a></p>
+		<h3><a href="/led-hanging"  title='LED HANGING' >LED HANGING</a></h3>
+		<!--
+		<p></p>
+		<p><a href="/led-hanging"  title='LED HANGING' >Read more</a></p> -->
+		<hr />
+		<div class="row-fluid productItem">
+		<!--  -->
+		</div>
+		<hr />
+	</div>
+<!--  -->
+	<div class="span12">
+		<p><a rel="myallimg" href='https://supremeteknolite.com/components/com_redshop/assets/images/category/1345367137_FL07-10SS_(5W_RFT-18WPL).jpg'   title='LED FOOT LIGHT' ><img src='https://supremeteknolite.com/components/com_redshop/assets/images/category/thumb/1345367137_FL07-10SS_(5W_RFT-18WPL)_w141_h141.jpg'  alt='LED FOOT LIGHT'  title='LED FOOT LIGHT' ></a></p>
+		<h3><a href="/led-foot-light"  title='LED FOOT LIGHT' >LED FOOT LIGHT</a></h3>
+		<!--
+		<p></p>
+		<p><a href="/led-foot-light"  title='LED FOOT LIGHT' >Read more</a></p> -->
+		<hr />
+		<div class="row-fluid productItem">
+		<!--  -->
+		</div>
+		<hr />
+	</div>
+<!--  -->
+	<div class="span12">
+		<p><a rel="myallimg" href='https://supremeteknolite.com/components/com_redshop/assets/images/category/1345367171_STREET_LIGHT_-_12,28,36,48,60,90W.jpg'   title='LED STREETLIGHT' ><img src='https://supremeteknolite.com/components/com_redshop/assets/images/category/thumb/1345367171_STREET_LIGHT_-_12,28,36,48,60,90W_w141_h141.jpg'  alt='LED STREETLIGHT'  title='LED STREETLIGHT' ></a></p>
+		<h3><a href="/led-streetlight"  title='LED STREETLIGHT' >LED STREETLIGHT</a></h3>
+		<!--
+		<p></p>
+		<p><a href="/led-streetlight"  title='LED STREETLIGHT' >Read more</a></p> -->
+		<hr />
+		<div class="row-fluid productItem">
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-streetlight/sl60/street-light' title='STREET LIGHT'>STREET LIGHT</a> - <a class="product_main_number label label-inverse" href="/led-streetlight/sl60/street-light"><span id="product_number_variable847">SL60</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_847'><div><a id='a_main_image847'  title='STREET LIGHT'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1345702279_STREETLIGHT-12,28,36,48,60,90W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image847' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1345702279_STREETLIGHT-12,28,36,48,60,90W_w500_h600.jpg'  title='STREET LIGHT'  alt='STREET LIGHT'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_847' id='addtocart_prd_847' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_847" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_847" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_847','847','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_847','847','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox847"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_847','847','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_847','847','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_847"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock847' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock847' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder847' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='847'>
+				<input type='hidden' name='category_id' value='391'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price847' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price847' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat847' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage847' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity847' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre847"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+		</div>
+		<hr />
+	</div>
+<!--  -->
+	<div class="span12">
+		<p><a rel="myallimg" href='https://supremeteknolite.com/components/com_redshop/assets/images/category/1345367212_EB-14,28,18,36W.jpg'   title='LED DRIVER' ><img src='https://supremeteknolite.com/components/com_redshop/assets/images/category/thumb/1345367212_EB-14,28,18,36W_w141_h141.jpg'  alt='LED DRIVER'  title='LED DRIVER' ></a></p>
+		<h3><a href="/led-driver"  title='LED DRIVER' >LED DRIVER</a></h3>
+		<!--
+		<p></p>
+		<p><a href="/led-driver"  title='LED DRIVER' >Read more</a></p> -->
+		<hr />
+		<div class="row-fluid productItem">
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-driver/dr1eco/350ma' title='350ma'>350ma</a> - <a class="product_main_number label label-inverse" href="/led-driver/dr1eco/350ma"><span id="product_number_variable849">DR1eco</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_849'><div><a id='a_main_image849'  title='350ma'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343454737_DR-1,3W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image849' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343454737_DR-1,3W_w500_h600.jpg'  title='350ma'  alt='350ma'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_849' id='addtocart_prd_849' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_849" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_849" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_849','849','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_849','849','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox849"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_849','849','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_849','849','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_849"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock849' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock849' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder849' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='849'>
+				<input type='hidden' name='category_id' value='394'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price849' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price849' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat849' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage849' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity849' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre849"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-driver/dr3/350ma' title='350ma'>350ma</a> - <a class="product_main_number label label-inverse" href="/led-driver/dr3/350ma"><span id="product_number_variable850">DR3</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_850'><div><a id='a_main_image850'  title='350ma'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343454756_DR-3,9W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image850' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343454756_DR-3,9W_w500_h600.jpg'  title='350ma'  alt='350ma'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_850' id='addtocart_prd_850' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_850" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_850" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_850','850','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_850','850','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox850"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_850','850','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_850','850','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_850"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock850' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock850' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder850' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='850'>
+				<input type='hidden' name='category_id' value='394'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price850' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price850' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat850' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage850' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity850' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre850"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-driver/dr6/350ma' title='350ma'>350ma</a> - <a class="product_main_number label label-inverse" href="/led-driver/dr6/350ma"><span id="product_number_variable851">DR6</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_851'><div><a id='a_main_image851'  title='350ma'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343454777_DR-6,9W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image851' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343454777_DR-6,9W_w500_h600.jpg'  title='350ma'  alt='350ma'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_851' id='addtocart_prd_851' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_851" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_851" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_851','851','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_851','851','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox851"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_851','851','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_851','851','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_851"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock851' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock851' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder851' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='851'>
+				<input type='hidden' name='category_id' value='394'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price851' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price851' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat851' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage851' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity851' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre851"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-driver/dr9/350ma' title='350ma'>350ma</a> - <a class="product_main_number label label-inverse" href="/led-driver/dr9/350ma"><span id="product_number_variable852">DR9</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_852'><div><a id='a_main_image852'  title='350ma'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343454867_DR-6,9W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image852' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343454867_DR-6,9W_w500_h600.jpg'  title='350ma'  alt='350ma'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_852' id='addtocart_prd_852' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_852" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_852" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_852','852','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_852','852','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox852"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_852','852','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_852','852','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_852"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock852' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock852' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder852' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='852'>
+				<input type='hidden' name='category_id' value='394'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price852' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price852' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat852' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage852' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity852' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre852"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-driver/dr12/350ma' title='350ma'>350ma</a> - <a class="product_main_number label label-inverse" href="/led-driver/dr12/350ma"><span id="product_number_variable853">DR12</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_853'><div><a id='a_main_image853'  title='350ma'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343454886_DR-12,15,22,W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image853' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343454886_DR-12,15,22,W_w500_h600.jpg'  title='350ma'  alt='350ma'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_853' id='addtocart_prd_853' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_853" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_853" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_853','853','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_853','853','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox853"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_853','853','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_853','853','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_853"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock853' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock853' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder853' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='853'>
+				<input type='hidden' name='category_id' value='394'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price853' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price853' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat853' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage853' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity853' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre853"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-driver/dr18/350ma' title='350ma'>350ma</a> - <a class="product_main_number label label-inverse" href="/led-driver/dr18/350ma"><span id="product_number_variable854">DR18</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_854'><div><a id='a_main_image854'  title='350ma'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343454906_DR-12,15,22,W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image854' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343454906_DR-12,15,22,W_w500_h600.jpg'  title='350ma'  alt='350ma'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_854' id='addtocart_prd_854' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_854" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_854" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_854','854','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_854','854','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox854"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_854','854','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_854','854','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_854"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock854' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock854' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder854' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='854'>
+				<input type='hidden' name='category_id' value='394'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price854' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price854' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat854' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage854' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity854' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre854"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-driver/dr25/350ma' title='350ma'>350ma</a> - <a class="product_main_number label label-inverse" href="/led-driver/dr25/350ma"><span id="product_number_variable855">DR25</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_855'><div><a id='a_main_image855'  title='350ma'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343454923_DR-25W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image855' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343454923_DR-25W_w500_h600.jpg'  title='350ma'  alt='350ma'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_855' id='addtocart_prd_855' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_855" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_855" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_855','855','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_855','855','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox855"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_855','855','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_855','855','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_855"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock855' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock855' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder855' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='855'>
+				<input type='hidden' name='category_id' value='394'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price855' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price855' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat855' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage855' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity855' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre855"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-driver/dr1/3/700ma' title='700ma'>700ma</a> - <a class="product_main_number label label-inverse" href="/led-driver/dr1/3/700ma"><span id="product_number_variable856">DR1/3</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_856'><div><a id='a_main_image856'  title='700ma'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343454962_DR-1,3W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image856' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343454962_DR-1,3W_w500_h600.jpg'  title='700ma'  alt='700ma'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_856' id='addtocart_prd_856' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_856" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_856" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_856','856','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_856','856','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox856"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_856','856','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_856','856','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_856"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock856' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock856' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder856' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='856'>
+				<input type='hidden' name='category_id' value='394'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price856' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price856' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat856' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage856' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity856' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre856"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-driver/dr3/3/700ma' title='700ma'>700ma</a> - <a class="product_main_number label label-inverse" href="/led-driver/dr3/3/700ma"><span id="product_number_variable857">DR3/3</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_857'><div><a id='a_main_image857'  title='700ma'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1345702457_DR-3,9W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image857' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1345702457_DR-3,9W_w500_h600.jpg'  title='700ma'  alt='700ma'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_857' id='addtocart_prd_857' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_857" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_857" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_857','857','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_857','857','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox857"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_857','857','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_857','857','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_857"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock857' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock857' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder857' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='857'>
+				<input type='hidden' name='category_id' value='394'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price857' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price857' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat857' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage857' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity857' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre857"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-driver/dr6/3/700ma' title='700ma'>700ma</a> - <a class="product_main_number label label-inverse" href="/led-driver/dr6/3/700ma"><span id="product_number_variable858">DR6/3</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_858'><div><a id='a_main_image858'  title='700ma'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1345702480_DR-6,9W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image858' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1345702480_DR-6,9W_w500_h600.jpg'  title='700ma'  alt='700ma'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p><table border="0" cellspacing="0"><colgroup width="2002"></colgroup>
+<tbody>
+<tr>
+<td align="CENTER" height="17"><strong>Technical Details</strong></td>
+</tr>
+<tr>
+<td align="LEFT" height="17"><strong>Type of Driver</strong> : DR6/3</td>
+</tr>
+<tr>
+<td align="LEFT" height="17"><strong>Total Wattage </strong> : 18W</td>
+</tr>
+<tr>
+<td align="LEFT" height="17"><strong>Current</strong> : 700ma</td>
+</tr>
+<tr>
+<td align="LEFT" height="17"><strong>Dimension Size (MM)</strong> : 87X83X29</td>
+</tr>
+</tbody>
+</table>
+<p> </p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_858' id='addtocart_prd_858' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_858" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_858" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_858','858','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_858','858','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox858"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_858','858','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_858','858','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_858"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock858' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock858' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder858' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='858'>
+				<input type='hidden' name='category_id' value='394'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price858' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price858' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat858' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage858' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity858' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre858"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-driver/dr9/3/700ma' title='700ma'>700ma</a> - <a class="product_main_number label label-inverse" href="/led-driver/dr9/3/700ma"><span id="product_number_variable859">DR9/3</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_859'><div><a id='a_main_image859'  title='700ma'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343455041_DR-3,9W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image859' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343455041_DR-3,9W_w500_h600.jpg'  title='700ma'  alt='700ma'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_859' id='addtocart_prd_859' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_859" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_859" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_859','859','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_859','859','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox859"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_859','859','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_859','859','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_859"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock859' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock859' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder859' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='859'>
+				<input type='hidden' name='category_id' value='394'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price859' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price859' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat859' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage859' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity859' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre859"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+		</div>
+		<hr />
+	</div>
+<!--  -->
+	<div class="span12">
+		<p><a rel="myallimg" href='https://supremeteknolite.com/components/com_redshop/assets/images/category/1345367244_LED_STRIPS_RGB_CONTROLER.jpg'   title='LED STRIPS SMPS' ><img src='https://supremeteknolite.com/components/com_redshop/assets/images/category/thumb/1345367244_LED_STRIPS_RGB_CONTROLER_w141_h141.jpg'  alt='LED STRIPS SMPS'  title='LED STRIPS SMPS' ></a></p>
+		<h3><a href="/led-strips-smps"  title='LED STRIPS SMPS' >LED STRIPS SMPS</a></h3>
+		<!--
+		<p></p>
+		<p><a href="/led-strips-smps"  title='LED STRIPS SMPS' >Read more</a></p> -->
+		<hr />
+		<div class="row-fluid productItem">
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-strips-smps/smps10/10amp/120w' title='10amp/120w'>10amp/120w</a> - <a class="product_main_number label label-inverse" href="/led-strips-smps/smps10/10amp/120w"><span id="product_number_variable863">SMPS10</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_863'><div><a id='a_main_image863'  title='10amp/120w'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1345702661_37.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image863' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1345702661_37_w500_h600.jpg'  title='10amp/120w'  alt='10amp/120w'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_863' id='addtocart_prd_863' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_863" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_863" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_863','863','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_863','863','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox863"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_863','863','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_863','863','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_863"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock863' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock863' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder863' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='863'>
+				<input type='hidden' name='category_id' value='397'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price863' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price863' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat863' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage863' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity863' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre863"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-strips-smps/smps12/12amp/144w' title='12amp/144w'>12amp/144w</a> - <a class="product_main_number label label-inverse" href="/led-strips-smps/smps12/12amp/144w"><span id="product_number_variable864">SMPS12</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_864'><div><a id='a_main_image864'  title='12amp/144w'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1345702671_37.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image864' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1345702671_37_w500_h600.jpg'  title='12amp/144w'  alt='12amp/144w'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_864' id='addtocart_prd_864' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_864" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_864" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_864','864','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_864','864','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox864"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_864','864','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_864','864','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_864"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock864' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock864' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder864' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='864'>
+				<input type='hidden' name='category_id' value='397'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price864' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price864' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat864' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage864' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity864' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre864"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-strips-smps/smps15/15amp/180w' title='15amp/180w'>15amp/180w</a> - <a class="product_main_number label label-inverse" href="/led-strips-smps/smps15/15amp/180w"><span id="product_number_variable865">SMPS15</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_865'><div><a id='a_main_image865'  title='15amp/180w'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1345702680_37.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image865' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1345702680_37_w500_h600.jpg'  title='15amp/180w'  alt='15amp/180w'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_865' id='addtocart_prd_865' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_865" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_865" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_865','865','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_865','865','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox865"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_865','865','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_865','865','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_865"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock865' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock865' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder865' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='865'>
+				<input type='hidden' name='category_id' value='397'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price865' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price865' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat865' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage865' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity865' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre865"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-strips-smps/smps20/20amp/250w' title='20amp/250w'>20amp/250w</a> - <a class="product_main_number label label-inverse" href="/led-strips-smps/smps20/20amp/250w"><span id="product_number_variable866">SMPS20</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_866'><div><a id='a_main_image866'  title='20amp/250w'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1345702686_37.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image866' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1345702686_37_w500_h600.jpg'  title='20amp/250w'  alt='20amp/250w'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_866' id='addtocart_prd_866' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_866" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_866" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_866','866','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_866','866','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox866"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_866','866','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_866','866','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_866"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock866' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock866' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder866' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='866'>
+				<input type='hidden' name='category_id' value='397'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price866' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price866' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat866' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage866' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity866' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre866"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-strips-smps/sp300/2amp/24w' title='2amp/24w'>2amp/24w</a> - <a class="product_main_number label label-inverse" href="/led-strips-smps/sp300/2amp/24w"><span id="product_number_variable860">SP300</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_860'><div><a id='a_main_image860'  title='2amp/24w'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1345702639_37.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image860' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1345702639_37_w500_h600.jpg'  title='2amp/24w'  alt='2amp/24w'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_860' id='addtocart_prd_860' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_860" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_860" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_860','860','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_860','860','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox860"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_860','860','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_860','860','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_860"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock860' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock860' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder860' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='860'>
+				<input type='hidden' name='category_id' value='397'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price860' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price860' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat860' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage860' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity860' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre860"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-strips-smps/sp600/5amp/60w' title='5amp/60w'>5amp/60w</a> - <a class="product_main_number label label-inverse" href="/led-strips-smps/sp600/5amp/60w"><span id="product_number_variable861">SP600</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_861'><div><a id='a_main_image861'  title='5amp/60w'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1345702646_37.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image861' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1345702646_37_w500_h600.jpg'  title='5amp/60w'  alt='5amp/60w'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_861' id='addtocart_prd_861' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_861" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_861" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_861','861','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_861','861','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox861"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_861','861','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_861','861','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_861"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock861' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock861' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder861' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='861'>
+				<input type='hidden' name='category_id' value='397'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price861' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price861' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat861' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage861' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity861' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre861"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-strips-smps/sp800/8amp/96w' title='8amp/96w'>8amp/96w</a> - <a class="product_main_number label label-inverse" href="/led-strips-smps/sp800/8amp/96w"><span id="product_number_variable862">SP800</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_862'><div><a id='a_main_image862'  title='8amp/96w'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1345702653_37.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image862' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1345702653_37_w500_h600.jpg'  title='8amp/96w'  alt='8amp/96w'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_862' id='addtocart_prd_862' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_862" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_862" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_862','862','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_862','862','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox862"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_862','862','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_862','862','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_862"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock862' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock862' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder862' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='862'>
+				<input type='hidden' name='category_id' value='397'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price862' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price862' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat862' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage862' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity862' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre862"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+		</div>
+		<hr />
+	</div>
+<!--  -->
+	<div class="span12">
+		<p><a rel="myallimg" href='https://supremeteknolite.com/components/com_redshop/assets/images/category/1345367287_LZ001-1,3W.jpg'   title='LED CELING ROOM' ><img src='https://supremeteknolite.com/components/com_redshop/assets/images/category/thumb/1345367287_LZ001-1,3W_w141_h141.jpg'  alt='LED CELING ROOM'  title='LED CELING ROOM' ></a></p>
+		<h3><a href="/led-celing-room"  title='LED CELING ROOM' >LED CELING ROOM</a></h3>
+		<!--
+		<p></p>
+		<p><a href="/led-celing-room"  title='LED CELING ROOM' >Read more</a></p> -->
+		<hr />
+		<div class="row-fluid productItem">
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/led-celing-room/lz0m1rd/lizaro' title='LIZARO'>LIZARO</a> - <a class="product_main_number label label-inverse" href="/led-celing-room/lz0m1rd/lizaro"><span id="product_number_variable870">LZ0M1RD</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_870'><div><a id='a_main_image870'  title='LIZARO'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343455161_LZ0M1-1,3W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image870' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343455161_LZ0M1-1,3W_w500_h600.jpg'  title='LIZARO'  alt='LIZARO'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_870' id='addtocart_prd_870' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_870" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_870" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_870','870','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_870','870','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox870"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_870','870','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_870','870','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_870"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock870' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock870' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder870' value='global'>
+				<input type='hidden' name='product_id' id='product_id' value='870'>
+				<input type='hidden' name='category_id' value='400'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price870' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price870' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat870' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage870' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity870' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre870"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+			<div class="span4">
+				<h2>
+					<a href='/lz0m1sq/lizaro' title='LIZARO'>LIZARO</a> - <a class="product_main_number label label-inverse" href="/lz0m1sq/lizaro"><span id="product_number_variable871">LZ0M1SQ</span></a>
+				</h2>
+				<div class="product_thumb_image"><span class='productImageWrap' id='productImageWrapID_871'><div><a id='a_main_image871'  title='LIZARO'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1436010223_supreme-logo.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image871' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1436010223_supreme-logo_w500_h600.jpg'  title='LIZARO'  alt='LIZARO'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'><input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+				<p></p>
+				<!-- <div class="btn-group">
+					<form name='addtocart_prd_871' id='addtocart_prd_871' class='addtocart_formclass' action='/led/categoryproduct' method='post'><div><span class="stockaddtocart" id="stockaddtocartprd_871" style="display:none" class="stock_addtocart">Sorry, This product is out of stock....</span><span class="preordercart_order_m" id="preordercartprd_871" style="display:none"><a href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_871','871','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_871','871','0','0', 'user_fields_form','0','0','0');}" >PreOrder</a></span><a class="ajaxcartcolorbox871"  href="javascript:;"  onclick="if(displayAddtocartForm('addtocart_prd_871','871','0','0', 'user_fields_form')){checkAddtocartValidation('addtocart_prd_871','871','0','0', 'user_fields_form','0','0','0');}"  ><span    id="pdaddtocartprd_871"  title=""  style="cursor: pointer;" class="pdaddtocart_link">Request a Quote</span></a></div><table></table>
+				<input type='hidden' name='preorder_product_stock' id='preorder_product_stock871' value=''>
+		        <input type='hidden' name='product_stock' id='product_stock871' value='1'>
+				<input type='hidden' name='product_preorder' id='product_preorder871' value=''>
+				<input type='hidden' name='product_id' id='product_id' value='871'>
+				<input type='hidden' name='category_id' value='400'>
+				<input type='hidden' name='view' value='cart'>
+				<input type='hidden' name='task' value='add'>
+				<input type='hidden' name='option' value='com_redshop'>
+				<input type='hidden' name='Itemid' id='Itemid' value='119'>
+				<input type='hidden' name='sel_wrapper_id' id='sel_wrapper_id' value='0'>
+
+				<input type='hidden' name='main_price' id='main_price871' value='0' />
+				<input type='hidden' name='tmp_product_price' id='tmp_product_price' value='0'>
+
+				<input type='hidden' name='product_old_price' id='product_old_price871' value='0' />
+				<input type='hidden' name='tmp_product_old_price' id='tmp_product_old_price' value='0'>
+
+				<input type='hidden' name='product_price_no_vat' id='product_price_no_vat871' value='0' />
+				<input type='hidden' name='productprice_notvat' id='productprice_notvat' value='0'>
+
+				<input type='hidden' name='min_quantity' id='min_quantity' value='0' requiredtext='Minimum Quantity should be'>
+				<input type='hidden' name='max_quantity' id='max_quantity' value='0' requiredtext='Maximum Quantity should be'>
+
+				<input type='hidden' name='accessory_data' id='accessory_data' value='0'>
+				<input type='hidden' name='acc_attribute_data' id='acc_attribute_data' value='0'>
+				<input type='hidden' name='acc_quantity_data' id='acc_quantity_data' value='0'>
+				<input type='hidden' name='acc_property_data' id='acc_property_data' value='0'>
+				<input type='hidden' name='acc_subproperty_data' id='acc_subproperty_data' value='0'>
+				<input type='hidden' name='accessory_price' id='accessory_price' value='0'>
+				<input type='hidden' name='accessory_price_withoutvat' id='accessory_price_withoutvat' value='0'>
+
+				<input type='hidden' name='attribute_data' id='attribute_data' value='0'>
+				<input type='hidden' name='property_data' id='property_data' value='0'>
+				<input type='hidden' name='subproperty_data' id='subproperty_data' value='0'>
+				<input type='hidden' name='attribute_price' id='attribute_price' value='0'>
+				<input type='hidden' name='requiedAttribute' id='requiedAttribute' value='' reattribute=''>
+				<input type='hidden' name='requiedProperty' id='requiedProperty' value='' reproperty=''>
+
+				<input type='hidden' name='calcHeight' id='hidden_calc_height' value='' />
+				<input type='hidden' name='calcWidth' id='hidden_calc_width' value='' />
+				<input type='hidden' name='calcDepth' id='hidden_calc_depth' value='' />
+				<input type='hidden' name='calcRadius' id='hidden_calc_radius' value='' >
+				<input type='hidden' name='calcUnit' id='hidden_calc_unit' value='' />
+				<input type='hidden' name='pdcextraid' id='hidden_calc_extraid' value='' />
+				<input type='hidden' name='hidden_attribute_cartimage' id='hidden_attribute_cartimage871' value='' /><input class='quantity_select' type='hidden' name='quantity' id='quantity871' value='1' maxlength='3' size='3'></form>
+					<p class="btn btn-info"><span id="produkt_kasse_hoejre_pris_indre871"></span></p>
+				</div> -->
+			</div>
+		<!--  -->
+		</div>
+		<hr />
+	</div>
+<!--  -->
+	<div class="span12">
+		<p><a rel="myallimg" href='https://supremeteknolite.com/components/com_redshop/assets/images/category/1345367329_LZ015-3W.jpg'   title='LED WALL LIGHT' ><img src='https://supremeteknolite.com/components/com_redshop/assets/images/category/thumb/1345367329_LZ015-3W_w141_h141.jpg'  alt='LED WALL LIGHT'  title='LED WALL LIGHT' ></a></p>
+		<h3><a href="/led-wall-light"  title='LED WALL LIGHT' >LED WALL LIGHT</a></h3>
+		<!--
+		<p></p>
+		<p><a href="/led-wall-light"  title='LED WALL LIGHT' >Read more</a></p> -->
+		<hr />
+		<div class="row-fluid productItem">
+		<!--  -->
+		</div>
+		<hr />
+	</div>
+<!--  -->
+	<div class="span12">
+		<p><a rel="myallimg" href='https://supremeteknolite.com/components/com_redshop/assets/images/category/1345367360_LZ017-3W.jpg'   title='LED CELIGN LIGHT' ><img src='https://supremeteknolite.com/components/com_redshop/assets/images/category/thumb/1345367360_LZ017-3W_w141_h141.jpg'  alt='LED CELIGN LIGHT'  title='LED CELIGN LIGHT' ></a></p>
+		<h3><a href="/led-celign-light"  title='LED CELIGN LIGHT' >LED CELIGN LIGHT</a></h3>
+		<!--
+		<p></p>
+		<p><a href="/led-celign-light"  title='LED CELIGN LIGHT' >Read more</a></p> -->
+		<hr />
+		<div class="row-fluid productItem">
+		<!--  -->
+		</div>
+		<hr />
+	</div>
+<!--  -->
+</div>
+<!-- {subcats end if} -->
+<div class="category_pagination"><ul class="pagination-list"><li class="disabled"><a><i class="fa fa-angle-double-left"></i></a></li><li class="disabled"><a><i class="fa fa-chevron-left"></i></a></li><li class="active hidden-phone"><a>1</a></li><li class="hidden-phone"><a title="2" href="/led/categoryproduct/results11-20" class="pagenav">2</a></li><li class="hidden-phone"><a title="3" href="/led/categoryproduct/results21-30" class="pagenav">3</a></li><li><a title="Next" href="/led/categoryproduct/results11-20" class="pagenav"><i class="fa fa-chevron-right"></i></a></li><li><a title="End" href="/led/categoryproduct/results21-30" class="pagenav"><i class="fa fa-angle-double-right"></i></a></li></ul></div></div>
+					</main>
+									</div>
+				<!-- boxes -->
+								<!-- top -->
+								<!-- Info -->
+								<!-- middle -->
+								<!-- bottom -->
+								<section class="section section-padded bottom">
+					<div class="container-fluid">
+						<div class="row-fluid">
+							
+
+<div class="custom span3"  >
+	<p><img src="/images/supreme/supreme-logo.jpg" alt="email" width="245" height="274" /></p></div>
+
+
+<div class="custom span9"  >
+	<h2 style="text-align: center;">Become Authorized Channel Partner of Teknolite</h2>
+<p style="text-align: center;">So if you were waiting for the perfect time to seize this opportunity, the time is now.</p>
+<p style="text-align: center;"><strong>There are no obligations</strong></p>
+<p style="text-align: center;"><strong>Get a taste of SUCCESS!</strong></p>
+<p style="text-align: center;"><strong><span style="text-align: center;">So, act now...</span></strong></p>
+<p style="text-align: center;"><a class="btn btn-primary" title="Teknolite Dealer Registration Form" href="http://bit.ly/teknolite-dealer-registration" target="_blank">Teknolite Dealer Registration Form</a></p></div>
+
+						</div>
+					</div>
+				</section>
+							</div>
+		</div>
+		<!-- footer -->
+		<footer id="footer" role="contentinfo">
+			<div class="wrapper wrapper-transparent">
+				<div class="container-fluid">
+					<div class="row-fluid">
+						<div class="left">
+							&copy; 2017 Supreme Sales Corporation						</div>
+						<div class="right">
+							Developed with ♥ By <a href="mailto:gunjan.ce2009@gmail.com">Gunjan Patel</a>
+						</div>
+											</div>
+				</div>
+			</div>
+		</footer>
+				<nav id="menu">
+			<ul class="nav menu">
+<li class="item-101 default"><a href="/" >Home</a></li><li class="item-119 current active deeper parent"><a href="/led/categoryproduct" >Teknolite Products</a><ul class="nav-child unstyled small"><li class="item-140"><a href="/led-panel" >LED PANEL</a></li></ul></li><li class="item-111"><a href="/contact-form" >Contact</a></li><li class="item-139"><a href="http://teknolite.in" target="_blank">Channel Partner</a></li><li class="item-162"><a href="/gallery" >Gallery</a></li></ul>
+
+		</nav>
+				
+		<script>
+			jQuery(function() {
+			jQuery('.deeper').addClass('dropdown');
+			jQuery('.nav-child').addClass('dropdown-menu');
+				});
+		</script>
+		<script type="text/javascript">
+				jQuery(document).ready(function() {
+		jQuery("nav#menu").mmenu({
+		classes : 'mm-light',
+							position : 'right'
+		});
+		});
+		</script>
+	</body>

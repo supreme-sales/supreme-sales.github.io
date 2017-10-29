@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/templates/corporate-blue/css/com_redshop/redshop.css" type="text/css"?>
+<?xml-stylesheet href="/media/com_redshop/css/style.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Supreme Sales Corporation</title>
+		<description><![CDATA[]]></description>
+		<link>https://supremeteknolite.com/tag/2</link>
+		<lastBuildDate>Sun, 29 Oct 2017 14:20:52 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://supremeteknolite.com/tag/2-joomla?format=feed&amp;lang=en&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>sales@supremeteknolite.com (Supreme Sales)</managingEditor>
+		<item>
+			<title>About Supreme Sales Corporation</title>
+			<link>https://supremeteknolite.com/about-supreme-sales</link>
+			<guid isPermaLink="true">https://supremeteknolite.com/about-supreme-sales</guid>
+			<description><![CDATA[<p><strong>Supreme Sales</strong> is equipped with advanced testing facilities we are having in house testing facilities for testing of even critical parameters of our products to ensure trouble free performance over the years. ‘TEKNOLITE’ implements modern management and stringent quality control system. We have been accredited to ISO 9001-2000 certificate in August 2002 which shows our commitment to international quality itself.</p>]]></description>
+			<category>About Supreme Sales Corporation</category>
+			<pubDate>Sat, 11 Oct 2014 15:49:54 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

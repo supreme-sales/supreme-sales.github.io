@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+			<base href="https://supremeteknolite.com/led-wakway" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="LED WAKWAY, Webshop" />
+	<meta name="robots" content="INDEX,FOLLOW" />
+	<meta name="description" content="LED WAKWAY - Webshop" />
+	
+	<title>LED WAKWAY | Webshop</title>
+	<link href="/templates/corporate-blue/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/com_redshop/css/priceslider.css" rel="stylesheet" type="text/css" />
+	<link href="/media/system/css/modal.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/com_redshop/redshop.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_redshop/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/jquery.mmenu.all.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/theme.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/color-blue.css" rel="stylesheet" type="text/css" />
+	<link href="/media/siteground/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+div.mod_search107 input[type="search"]{ width:auto; }
+	</style>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/com_redshop/js/redbox.js" type="text/javascript"></script>
+	<script src="/media/com_redshop/js/attribute.js" type="text/javascript"></script>
+	<script src="/media/com_redshop/js/common.js" type="text/javascript"></script>
+	<script src="/media/system/js/modal.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/theme.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/jquery.mmenu.min.all.js" type="text/javascript"></script>
+	<script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/com_redshop/redshop.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});
+
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		
+		  	ga('create', 'UA-37296213-1', 'auto');
+			ga('send', 'pageview');
+
+		
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		
+			(function() {
+				var RedshopStrings = {"SITE_URL":"https:\/\/supremeteknolite.com\/","AJAX_CART_BOX":"1","REDSHOP_VIEW":"category","REDSHOP_LAYOUT":"detail","CURRENCY_SYMBOL_CONVERT":" \u20b9 ","CURRENCY_CONVERT":1,"PRICE_SEPERATOR":".","CURRENCY_SYMBOL_POSITION":"behind","PRICE_DECIMAL":"2","THOUSAND_SEPERATOR":",","USE_STOCKROOM":"0","USE_AS_CATALOG":0,"AJAX_CART_DISPLAY_TIME":"3000","SHOW_PRICE":1,"DEFAULT_QUOTATION_MODE":1,"PRICE_REPLACE":"","ALLOW_PRE_ORDER":"0","ATTRIBUTE_SCROLLER_THUMB_WIDTH":"50","ATTRIBUTE_SCROLLER_THUMB_HEIGHT":"50","PRODUCT_DETAIL_IS_LIGHTBOX":"1","REQUIRED_VAT_NUMBER":"1","NOOF_SUBATTRIB_THUMB_FOR_SCROLLER":"3","SHOW_QUOTATION_PRICE":"1","AJAX_DETAIL_BOX_WIDTH":"500","AJAX_DETAIL_BOX_HEIGHT":"600","AJAX_BOX_WIDTH":"500","AJAX_BOX_HEIGHT":"150","PRICE_REPLACE_URL":"","ZERO_PRICE_REPLACE_URL":"","ZERO_PRICE_REPLACE":""};
+				if (typeof redSHOP == "undefined") {
+					redSHOP = {};
+					redSHOP.RSConfig.strings = RedshopStrings;
+				}
+				else {
+					redSHOP.RSConfig.load(RedshopStrings);
+				}
+			})();
+		
+	</script>
+	<script type="text/javascript">
+		(function() {
+			Joomla.JText.load({"COM_REDSHOP_YOUR_MUST_PROVIDE_A_FIRSTNAME":"Please enter first name","COM_REDSHOP_PRODUCT_OUTOFSTOCK_MESSAGE":"Sorry, This product is out of stock....","COM_REDSHOP_PREORDER_PRODUCT_OUTOFSTOCK_MESSAGE":"Sorry.... Pre-order Stock is out of Order.","COM_REDSHOP_PASSWORD_MIN_CHARACTER_LIMIT":"Your password must be at least 5 characters long","COM_REDSHOP_YOUR_MUST_PROVIDE_A_VALID_PHONE":"Please specify a valid phone number","COM_REDSHOP_IS_REQUIRED":"is Required.","COM_REDSHOP_ENTER_NUMBER":"Please Enter Numbers","COM_REDSHOP_PLEASE_ENTER_COMPANY_NAME":"Please enter company name","COM_REDSHOP_YOUR_MUST_PROVIDE_A_LASTNAME":"Please enter last name","COM_REDSHOP_YOUR_MUST_PROVIDE_A_ADDRESS":"Please enter address","COM_REDSHOP_YOUR_MUST_PROVIDE_A_ZIP":"Please enter post code","COM_REDSHOP_YOUR_MUST_PROVIDE_A_CITY":"Please enter city","COM_REDSHOP_YOUR_MUST_PROVIDE_A_PHONE":"Please enter the phone","COM_REDSHOP_YOU_MUST_PROVIDE_LOGIN_NAME":"Please enter username","COM_REDSHOP_PROVIDE_EMAIL_ADDRESS":"Please enter email address","COM_REDSHOP_EMAIL_NOT_MATCH":"Email address do not match","COM_REDSHOP_PASSWORD_NOT_MATCH":"Password not match","COM_REDSHOP_NOT_AVAILABLE":"Not Available","COM_REDSHOP_PLEASE_INSERT_HEIGHT":"Please Insert Height","COM_REDSHOP_PLEASE_INSERT_WIDTH":"Please Insert Width","COM_REDSHOP_PLEASE_INSERT_DEPTH":"Please Insert Depth","COM_REDSHOP_PLEASE_INSERT_RADIUS":"Please Insert Radius","COM_REDSHOP_PLEASE_INSERT_UNIT":"Please Insert Unit","COM_REDSHOP_THIS_FIELD_IS_REQUIRED":"This field is required","COM_REDSHOP_SELECT_SUBSCRIPTION_PLAN":"Please Select Your Subscription Plan","COM_REDSHOP_USERNAME_MIN_CHARACTER_LIMIT":"Your username must consist of at least 2 characters","COM_REDSHOP_EAN_MIN_CHARACTER_LIMIT":"Enter only 13 digits without spaces","COM_REDSHOP_AVAILABLE_STOCK":"In Stock."});
+		})();
+	</script>
+
+		<!-- Google Font -->
+				<link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+		<style type="text/css">
+			h1,h2,h3,h4,h5,h6,.site-title,a.brand{
+		font-family: 'Open Sans', sans-serif;
+		}
+		</style>
+				<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+		<![endif]-->
+      <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/68e83054af0a8f99fc55032a1/ed8c210a5579f0933c6fb705c.js");</script>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37296213-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	</head>
+	<body>
+<!-- Facebook SDK -->
+<div id='fb-root'></div>
+<script type='text/javascript'>
+
+      // Load the SDK Asynchronously
+      (function(d){
+      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = '//connect.facebook.net/en_GB/all.js';
+      d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+
+</script>
+<!-- End Facebook SDK -->
+
+		<div class="wrapper" id="page">
+			<!-- Page Header -->
+			<header id="masthead">
+				<nav class="navbar navbar-static-top">
+					<div class="navbar-inner">
+						<div class="container-fluid">
+							<div class="container">
+								<a href="#menu" class="btn btn-navbar">
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</a>
+							</div>
+							<h1 class="brand">
+								<a class="brand pull-left" href="/">
+									<img src="https://supremeteknolite.com/images/supreme/supreme-logo.png" alt="Supreme Sales Corporation" /><p class="site-title hidden-phone" title="Supreme Sales Corporation">Sales Corporation</p>																	</a>
+							</h1>
+														<div class="top-search">
+								<div class="search mod_search107">
+	<form action="/led/categoryproduct" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" size="20" placeholder="Search ..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="119" />
+	</form>
+</div>
+<ul class="mod-siteground-social inline" id="mod-201">
+			<li>
+			<a title="Find me on Facebook" class="fa-stack fa-lg" href="https://facebook.com/SupremeSalesCorporation" >
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+			  <span class="hidden">Facebook</span>
+			</a>
+		</li>
+						<li>
+			<a title="Send me an email with your default email program" class="fa-stack fa-lg" href="mailto:supreme1995@gmail.com">
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+			  <span class="hidden">Email</span>
+			</a>
+		</li>
+				<li>
+			<a title="Contact me through my contact form" class="fa-stack fa-lg" href="/contact-form">
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-send fa-stack-1x fa-inverse"></i>
+			  <span class="hidden">Contact form</span>
+			</a>
+		</li>
+		</ul>
+
+							</div>
+													</div>
+					</div>
+				</nav>
+			</header>
+			<!-- Main Menu -->
+			<nav class="navbar hidden-phone" data-spy="affix" data-offset-top="250">
+				<div class="navbar-inner">
+					<!-- <div class="container-fluid"> -->
+						<div class="nav-collapse collapse">
+							<ul class="nav menu">
+<li class="item-101 default"><a href="/" >Home</a></li><li class="item-119 current active deeper parent"><a href="/led/categoryproduct" >Teknolite Products</a><ul class="nav-child unstyled small"><li class="item-140"><a href="/led-panel" >LED PANEL</a></li></ul></li><li class="item-111"><a href="/contact-form" >Contact</a></li><li class="item-139"><a href="http://teknolite.in" target="_blank">Channel Partner</a></li><li class="item-162"><a href="/gallery" >Gallery</a></li></ul>
+
+						</div>
+					<!-- </div> -->
+				</div>
+			</nav>
+			<!-- Main Content -->
+			<div id="content" role="main">
+				<!-- header -->
+								<!-- breadcrumb -->
+								<!-- content/component/sidebars -->
+				<div class="row-fluid component">
+										<main id="content" role="main" class="span12">
+					<!-- Begin Content -->
+					<div id="system-message-container">
+	</div>
+
+					<div id="redshopcomponent" class="redshop redSHOPSiteViewCategory isJ30"><div class="category"></div><div class="pull-right"><a class="btn" onclick='window.open("https://supremeteknolite.com/index.php?option=com_redshop&view=category&layout=detail&cid=409&print=1&tmpl=component&Itemid=119&limit=20&texpricemin=0&texpricemax=0&order_by=p.product_name ASC&manufacturer_id=0&category_template=387","mywindow","scrollbars=1","location=1")' href="#"><span class="icon-print"></span></a></div>
+<h1>LED WAKWAY</h1>
+<div class="row-fluid">
+<div id='productlist'><div id='redcatproducts'>
+<div class="product row-fluid">
+	<div class="span6">
+		<h2><span class="product_main_number label label-inverse"><span id="product_number_variable893">LZ0P3</span></span> <span class="product_main_price"><span id="produkt_kasse_hoejre_pris_indre893">2,450.00 ₹ </span></span></h2>
+		<div class="product_desc_short"></div>
+		<div class="product_desc_full"></div>
+		<p>&nbsp;</p>
+	</div>
+	<div class="span6 pull-right">
+		<div class="product_image"><span class='productImageWrap' id='productImageWrapID_893'><div><a id='a_main_image893'  title='LIZARO'  href='https://supremeteknolite.com/components/com_redshop/assets/images/product/1343455725_LZ0P3-3W.jpg' class="modal" rel="{handler: 'image', size: {}}"><img id='main_image893' src='https://supremeteknolite.com/components/com_redshop/assets/images/product/thumb/1343455725_LZ0P3-3W_w500_h600.jpg'  title='LIZARO'  alt='LIZARO'  /></a></div></span><input type='hidden' name='prd_main_imgwidth' id='prd_main_imgwidth' value='500'>
+								<input type='hidden' name='prd_main_imgheight' id='prd_main_imgheight' value='600'></div>
+	</div>
+</div>
+</div><input type='hidden' name='slider_texpricemin' id='slider_texpricemin' value='0' /><input type='hidden' name='slider_texpricemax' id='slider_texpricemax' value='0' /></div>
+</div>
+<div class="category_pagination"></div>
+</div>
+					</main>
+									</div>
+				<!-- boxes -->
+								<!-- top -->
+								<!-- Info -->
+								<!-- middle -->
+								<!-- bottom -->
+								<section class="section section-padded bottom">
+					<div class="container-fluid">
+						<div class="row-fluid">
+							
+
+<div class="custom span3"  >
+	<p><img src="/images/supreme/supreme-logo.jpg" alt="email" width="245" height="274" /></p></div>
+
+
+<div class="custom span9"  >
+	<h2 style="text-align: center;">Become Authorized Channel Partner of Teknolite</h2>
+<p style="text-align: center;">So if you were waiting for the perfect time to seize this opportunity, the time is now.</p>
+<p style="text-align: center;"><strong>There are no obligations</strong></p>
+<p style="text-align: center;"><strong>Get a taste of SUCCESS!</strong></p>
+<p style="text-align: center;"><strong><span style="text-align: center;">So, act now...</span></strong></p>
+<p style="text-align: center;"><a class="btn btn-primary" title="Teknolite Dealer Registration Form" href="http://bit.ly/teknolite-dealer-registration" target="_blank">Teknolite Dealer Registration Form</a></p></div>
+
+						</div>
+					</div>
+				</section>
+							</div>
+		</div>
+		<!-- footer -->
+		<footer id="footer" role="contentinfo">
+			<div class="wrapper wrapper-transparent">
+				<div class="container-fluid">
+					<div class="row-fluid">
+						<div class="left">
+							&copy; 2017 Supreme Sales Corporation						</div>
+						<div class="right">
+							Developed with ♥ By <a href="mailto:gunjan.ce2009@gmail.com">Gunjan Patel</a>
+						</div>
+											</div>
+				</div>
+			</div>
+		</footer>
+				<nav id="menu">
+			<ul class="nav menu">
+<li class="item-101 default"><a href="/" >Home</a></li><li class="item-119 current active deeper parent"><a href="/led/categoryproduct" >Teknolite Products</a><ul class="nav-child unstyled small"><li class="item-140"><a href="/led-panel" >LED PANEL</a></li></ul></li><li class="item-111"><a href="/contact-form" >Contact</a></li><li class="item-139"><a href="http://teknolite.in" target="_blank">Channel Partner</a></li><li class="item-162"><a href="/gallery" >Gallery</a></li></ul>
+
+		</nav>
+				
+		<script>
+			jQuery(function() {
+			jQuery('.deeper').addClass('dropdown');
+			jQuery('.nav-child').addClass('dropdown-menu');
+				});
+		</script>
+		<script type="text/javascript">
+				jQuery(document).ready(function() {
+		jQuery("nav#menu").mmenu({
+		classes : 'mm-light',
+							position : 'right'
+		});
+		});
+		</script>
+	</body>

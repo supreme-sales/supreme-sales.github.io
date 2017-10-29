@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	<base href="https://supremeteknolite.com/2-led/detail/15-led" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	
+	<title>Gallery</title>
+	<link href="/templates/corporate-blue/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/com_phocagallery/css/main/phocagallery.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_phocagallery/css/main/rating.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_phocagallery/css/custom/default.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/com_redshop/redshop.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_redshop/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/template.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+html { overflow:scroll; }
+	</style>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/components/com_phocagallery/assets/fadeslideshow/fadeslideshow.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/com_redshop/redshop.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});
+			(function() {
+				var RedshopStrings = {"SITE_URL":"https:\/\/supremeteknolite.com\/","AJAX_CART_BOX":"1","REDSHOP_VIEW":"detail","REDSHOP_LAYOUT":"","CURRENCY_SYMBOL_CONVERT":" \u20b9 ","CURRENCY_CONVERT":1,"PRICE_SEPERATOR":".","CURRENCY_SYMBOL_POSITION":"behind","PRICE_DECIMAL":"2","THOUSAND_SEPERATOR":",","USE_STOCKROOM":"0","USE_AS_CATALOG":0,"AJAX_CART_DISPLAY_TIME":"3000","SHOW_PRICE":1,"DEFAULT_QUOTATION_MODE":1,"PRICE_REPLACE":"","ALLOW_PRE_ORDER":"0","ATTRIBUTE_SCROLLER_THUMB_WIDTH":"50","ATTRIBUTE_SCROLLER_THUMB_HEIGHT":"50","PRODUCT_DETAIL_IS_LIGHTBOX":"1","REQUIRED_VAT_NUMBER":"1","NOOF_SUBATTRIB_THUMB_FOR_SCROLLER":"3","SHOW_QUOTATION_PRICE":"1","AJAX_DETAIL_BOX_WIDTH":"500","AJAX_DETAIL_BOX_HEIGHT":"600","AJAX_BOX_WIDTH":"500","AJAX_BOX_HEIGHT":"150","PRICE_REPLACE_URL":"","ZERO_PRICE_REPLACE_URL":"","ZERO_PRICE_REPLACE":""};
+				if (typeof redSHOP == "undefined") {
+					redSHOP = {};
+					redSHOP.RSConfig.strings = RedshopStrings;
+				}
+				else {
+					redSHOP.RSConfig.load(RedshopStrings);
+				}
+			})();
+		
+	</script>
+	<script type="text/javascript">
+		(function() {
+			Joomla.JText.load({"COM_REDSHOP_YOUR_MUST_PROVIDE_A_FIRSTNAME":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_FIRSTNAME","COM_REDSHOP_PRODUCT_OUTOFSTOCK_MESSAGE":"COM_REDSHOP_PRODUCT_OUTOFSTOCK_MESSAGE","COM_REDSHOP_PREORDER_PRODUCT_OUTOFSTOCK_MESSAGE":"COM_REDSHOP_PREORDER_PRODUCT_OUTOFSTOCK_MESSAGE","COM_REDSHOP_PASSWORD_MIN_CHARACTER_LIMIT":"COM_REDSHOP_PASSWORD_MIN_CHARACTER_LIMIT","COM_REDSHOP_YOUR_MUST_PROVIDE_A_VALID_PHONE":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_VALID_PHONE","COM_REDSHOP_IS_REQUIRED":"COM_REDSHOP_IS_REQUIRED","COM_REDSHOP_ENTER_NUMBER":"COM_REDSHOP_ENTER_NUMBER","COM_REDSHOP_PLEASE_ENTER_COMPANY_NAME":"COM_REDSHOP_PLEASE_ENTER_COMPANY_NAME","COM_REDSHOP_YOUR_MUST_PROVIDE_A_LASTNAME":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_LASTNAME","COM_REDSHOP_YOUR_MUST_PROVIDE_A_ADDRESS":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_ADDRESS","COM_REDSHOP_YOUR_MUST_PROVIDE_A_ZIP":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_ZIP","COM_REDSHOP_YOUR_MUST_PROVIDE_A_CITY":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_CITY","COM_REDSHOP_YOUR_MUST_PROVIDE_A_PHONE":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_PHONE","COM_REDSHOP_YOU_MUST_PROVIDE_LOGIN_NAME":"COM_REDSHOP_YOU_MUST_PROVIDE_LOGIN_NAME","COM_REDSHOP_PROVIDE_EMAIL_ADDRESS":"COM_REDSHOP_PROVIDE_EMAIL_ADDRESS","COM_REDSHOP_EMAIL_NOT_MATCH":"COM_REDSHOP_EMAIL_NOT_MATCH","COM_REDSHOP_PASSWORD_NOT_MATCH":"COM_REDSHOP_PASSWORD_NOT_MATCH","COM_REDSHOP_NOT_AVAILABLE":"COM_REDSHOP_NOT_AVAILABLE","COM_REDSHOP_PLEASE_INSERT_HEIGHT":"COM_REDSHOP_PLEASE_INSERT_HEIGHT","COM_REDSHOP_PLEASE_INSERT_WIDTH":"COM_REDSHOP_PLEASE_INSERT_WIDTH","COM_REDSHOP_PLEASE_INSERT_DEPTH":"COM_REDSHOP_PLEASE_INSERT_DEPTH","COM_REDSHOP_PLEASE_INSERT_RADIUS":"COM_REDSHOP_PLEASE_INSERT_RADIUS","COM_REDSHOP_PLEASE_INSERT_UNIT":"COM_REDSHOP_PLEASE_INSERT_UNIT","COM_REDSHOP_THIS_FIELD_IS_REQUIRED":"COM_REDSHOP_THIS_FIELD_IS_REQUIRED","COM_REDSHOP_SELECT_SUBSCRIPTION_PLAN":"COM_REDSHOP_SELECT_SUBSCRIPTION_PLAN","COM_REDSHOP_USERNAME_MIN_CHARACTER_LIMIT":"COM_REDSHOP_USERNAME_MIN_CHARACTER_LIMIT","COM_REDSHOP_EAN_MIN_CHARACTER_LIMIT":"COM_REDSHOP_EAN_MIN_CHARACTER_LIMIT","COM_REDSHOP_AVAILABLE_STOCK":"COM_REDSHOP_AVAILABLE_STOCK"});
+		})();
+	</script>
+	<style type="text/css"> 
+ html, body, .contentpane, #all, #main {padding:0px !important;margin:0px !important; width: 100% !important; max-width: 100% !important;} 
+body {min-width:100%} 
+.rt-container {width:100%} 
+ </style>
+
+<!--[if lt IE 9]>
+	<script src="/media/jui/js/html5.js"></script>
+<![endif]-->
+</head>
+<body class="contentpane modal">
+<!-- Facebook SDK -->
+<div id='fb-root'></div>
+<script type='text/javascript'>
+
+      // Load the SDK Asynchronously
+      (function(d){
+      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = '//connect.facebook.net/en_GB/all.js';
+      d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+
+</script>
+<!-- End Facebook SDK -->
+
+	<div id="system-message-container">
+	</div>
+
+	<script type="text/javascript">
+/***********************************************
+* Ultimate Fade In Slideshow v2.0- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+var phocagallery=new fadeSlideShow({
+	wrapperid: "phocaGallerySlideshowC",
+	dimensions: [640, 480],
+	imagearray: [["/images/phocagallery/led/thumbs/phoca_thumb_l_bl-b22.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_bl.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_blc-e14.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_bll-e14.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_cl10.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_cl12.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_cl12m.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_ddr.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_dsq.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_dsr.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_fdn.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_gdr.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_gdrd.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_hibay.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jc.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jc1.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jcrd.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jld.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jmc.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jmcl.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_jwd.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_lb.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_lbsf.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_lft.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_mr16.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_nb1.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_nb3.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_nb4.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_nb4m.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_nbsf.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obh-100.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obh-101.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obh102.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obh103-s.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obh104.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obl-100.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obl-101.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obl-102.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obl-103.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_obl103.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_ofl101-4w.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_owl-100.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_owl-101.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_owl102.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_owl104.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_pht.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_plx2x2.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_plxrd.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_plxrdsf.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_plxsq.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_sn.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_sn ufo.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_sp300.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_street.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_strip.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_track.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_tube.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_tube rft.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_vrtrd.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_vtrsq.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl-107.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl-126.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl-139.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl-150.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl-168.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl118.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl124.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl162.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl173.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl192.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl193.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl195.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl196.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl197.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl256.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl304-w.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wl304.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_ws.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wsm.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_wssf.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_zf.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_zm.jpg", "", "", ""],
+["/images/phocagallery/led/thumbs/phoca_thumb_l_zm30m.jpg", "", "", ""]
+],
+	displaymode: {type:'auto', pause: 2500, cycles:0, wraparound:false, randomize: 0},
+	persist: false,
+	fadeduration: 3000,
+	descreveal: "peekaboo",
+	togglerid: "",
+})
+</script>
+<div id="phocagallery" class="pg-detail-view"><center style="padding-top:10px"><table border="0" width="100%" cellpadding="0" cellspacing="0"><tr><td colspan="6" align="center" valign="middle" height="480" style="height:480px;vertical-align: middle;" ><div id="phocaGalleryImageBox" style="width:480px;margin: auto;padding: 0;"><a href="#" onclick="window.parent.SqueezeBox.close();" style="margin:auto;padding:0"><img src="/images/phocagallery/led/thumbs/phoca_thumb_l_jc.jpg" alt="Led" class="pg-detail-image" /></a></div></td></tr><tr><td colspan="6"><div style="padding:0;margin:0;height:3px;font-size:0px;">&nbsp;</div></td></tr><tr><td align="left" width="30%" style="padding-left:48px"><div class="pg-imgbgd"><a href="/2-led/detail/14-led?tmpl=component" title="Previous Image" id="prev" ><img src="/media/com_phocagallery/images/icon-prev.png" alt="Previous Image" /></a></div></td><td align="center"><img src="/media/com_phocagallery/images/icon-stop-grey.png" alt="Stop Slideshow" /></td><td align="center"><div class="pg-imgbgd"><a href="/2-led/detail/15-led?phocaslideshow=1&amp;tmpl=component" title="Start Slideshow"><img src="/media/com_phocagallery/images/icon-play.png" alt="Start Slideshow" /></a></div></td><td align="center"><div class="pg-imgbgd"><a href="/2-led/detail/15-led?tmpl=component" onclick="window.location.reload(true);" title="Refresh" ><img src="/media/com_phocagallery/images/icon-reload.png" alt="Refresh" /></a></div></td><td align="center"><div class="pg-imgbgd"><a href="/2-led/detail/15-led?tmpl=component" onclick="window.parent.SqueezeBox.close();" title="Close Window" ><img src="/media/com_phocagallery/images/icon-exit.png" alt="Close Window" /></a></div></td><td align="right" width="30%" style="padding-right:48px"><div class="pg-imgbgd"><a href="/2-led/detail/16-led?tmpl=component" title="Next Image" id="next" ><img src="/media/com_phocagallery/images/icon-next.png" alt="Next Image" /></a></div></td></tr></table></center></div><div id="phocaGallerySlideshowC" style="display:none"></div>
+</body>
+</html>

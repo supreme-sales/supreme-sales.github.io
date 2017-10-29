@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+	<head>
+  <link rel="prev" href="/category/2?lang=en&amp;limit=20&amp;start=60" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+			<base href="https://supremeteknolite.com/category/2" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	
+	<title>Gallery</title>
+	<link href="/templates/corporate-blue/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/com_phocagallery/css/main/phocagallery.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_phocagallery/css/main/rating.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_phocagallery/css/custom/default.css" rel="stylesheet" type="text/css" />
+	<link href="/media/system/css/modal.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/com_redshop/redshop.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_redshop/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/jquery.mmenu.all.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/theme.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/corporate-blue/css/color-blue.css" rel="stylesheet" type="text/css" />
+	<link href="/media/siteground/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+div.mod_search107 input[type="search"]{ width:auto; }
+	</style>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/system/js/modal.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/theme.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/jquery.mmenu.min.all.js" type="text/javascript"></script>
+	<script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+	<script src="/templates/corporate-blue/js/com_redshop/redshop.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.pg-modal-button').get(), {
+				parse: 'rel'
+			});
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		
+			(function() {
+				var RedshopStrings = {"SITE_URL":"https:\/\/supremeteknolite.com\/","AJAX_CART_BOX":"1","REDSHOP_VIEW":"category","REDSHOP_LAYOUT":"","CURRENCY_SYMBOL_CONVERT":" \u20b9 ","CURRENCY_CONVERT":1,"PRICE_SEPERATOR":".","CURRENCY_SYMBOL_POSITION":"behind","PRICE_DECIMAL":"2","THOUSAND_SEPERATOR":",","USE_STOCKROOM":"0","USE_AS_CATALOG":0,"AJAX_CART_DISPLAY_TIME":"3000","SHOW_PRICE":1,"DEFAULT_QUOTATION_MODE":1,"PRICE_REPLACE":"","ALLOW_PRE_ORDER":"0","ATTRIBUTE_SCROLLER_THUMB_WIDTH":"50","ATTRIBUTE_SCROLLER_THUMB_HEIGHT":"50","PRODUCT_DETAIL_IS_LIGHTBOX":"1","REQUIRED_VAT_NUMBER":"1","NOOF_SUBATTRIB_THUMB_FOR_SCROLLER":"3","SHOW_QUOTATION_PRICE":"1","AJAX_DETAIL_BOX_WIDTH":"500","AJAX_DETAIL_BOX_HEIGHT":"600","AJAX_BOX_WIDTH":"500","AJAX_BOX_HEIGHT":"150","PRICE_REPLACE_URL":"","ZERO_PRICE_REPLACE_URL":"","ZERO_PRICE_REPLACE":""};
+				if (typeof redSHOP == "undefined") {
+					redSHOP = {};
+					redSHOP.RSConfig.strings = RedshopStrings;
+				}
+				else {
+					redSHOP.RSConfig.load(RedshopStrings);
+				}
+			})();
+		
+	</script>
+	<script type="text/javascript">
+		(function() {
+			Joomla.JText.load({"COM_REDSHOP_YOUR_MUST_PROVIDE_A_FIRSTNAME":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_FIRSTNAME","COM_REDSHOP_PRODUCT_OUTOFSTOCK_MESSAGE":"COM_REDSHOP_PRODUCT_OUTOFSTOCK_MESSAGE","COM_REDSHOP_PREORDER_PRODUCT_OUTOFSTOCK_MESSAGE":"COM_REDSHOP_PREORDER_PRODUCT_OUTOFSTOCK_MESSAGE","COM_REDSHOP_PASSWORD_MIN_CHARACTER_LIMIT":"COM_REDSHOP_PASSWORD_MIN_CHARACTER_LIMIT","COM_REDSHOP_YOUR_MUST_PROVIDE_A_VALID_PHONE":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_VALID_PHONE","COM_REDSHOP_IS_REQUIRED":"COM_REDSHOP_IS_REQUIRED","COM_REDSHOP_ENTER_NUMBER":"COM_REDSHOP_ENTER_NUMBER","COM_REDSHOP_PLEASE_ENTER_COMPANY_NAME":"COM_REDSHOP_PLEASE_ENTER_COMPANY_NAME","COM_REDSHOP_YOUR_MUST_PROVIDE_A_LASTNAME":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_LASTNAME","COM_REDSHOP_YOUR_MUST_PROVIDE_A_ADDRESS":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_ADDRESS","COM_REDSHOP_YOUR_MUST_PROVIDE_A_ZIP":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_ZIP","COM_REDSHOP_YOUR_MUST_PROVIDE_A_CITY":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_CITY","COM_REDSHOP_YOUR_MUST_PROVIDE_A_PHONE":"COM_REDSHOP_YOUR_MUST_PROVIDE_A_PHONE","COM_REDSHOP_YOU_MUST_PROVIDE_LOGIN_NAME":"COM_REDSHOP_YOU_MUST_PROVIDE_LOGIN_NAME","COM_REDSHOP_PROVIDE_EMAIL_ADDRESS":"COM_REDSHOP_PROVIDE_EMAIL_ADDRESS","COM_REDSHOP_EMAIL_NOT_MATCH":"COM_REDSHOP_EMAIL_NOT_MATCH","COM_REDSHOP_PASSWORD_NOT_MATCH":"COM_REDSHOP_PASSWORD_NOT_MATCH","COM_REDSHOP_NOT_AVAILABLE":"COM_REDSHOP_NOT_AVAILABLE","COM_REDSHOP_PLEASE_INSERT_HEIGHT":"COM_REDSHOP_PLEASE_INSERT_HEIGHT","COM_REDSHOP_PLEASE_INSERT_WIDTH":"COM_REDSHOP_PLEASE_INSERT_WIDTH","COM_REDSHOP_PLEASE_INSERT_DEPTH":"COM_REDSHOP_PLEASE_INSERT_DEPTH","COM_REDSHOP_PLEASE_INSERT_RADIUS":"COM_REDSHOP_PLEASE_INSERT_RADIUS","COM_REDSHOP_PLEASE_INSERT_UNIT":"COM_REDSHOP_PLEASE_INSERT_UNIT","COM_REDSHOP_THIS_FIELD_IS_REQUIRED":"COM_REDSHOP_THIS_FIELD_IS_REQUIRED","COM_REDSHOP_SELECT_SUBSCRIPTION_PLAN":"COM_REDSHOP_SELECT_SUBSCRIPTION_PLAN","COM_REDSHOP_USERNAME_MIN_CHARACTER_LIMIT":"COM_REDSHOP_USERNAME_MIN_CHARACTER_LIMIT","COM_REDSHOP_EAN_MIN_CHARACTER_LIMIT":"COM_REDSHOP_EAN_MIN_CHARACTER_LIMIT","COM_REDSHOP_AVAILABLE_STOCK":"COM_REDSHOP_AVAILABLE_STOCK"});
+		})();
+	</script>
+	<style type="text/css">
+#phocagallery {
+}
+.pg-cv-box {
+   height: 140px;
+   width: 100px;
+}
+.pg-cv-box-stat {
+   height: 140px;
+   width: 100px;
+}
+.pg-cv-box-img {
+   height: 100px;
+   width: 100px;
+}
+</style>
+
+		<!-- Google Font -->
+				<link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+		<style type="text/css">
+			h1,h2,h3,h4,h5,h6,.site-title,a.brand{
+		font-family: 'Open Sans', sans-serif;
+		}
+		</style>
+				<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+		<![endif]-->
+      <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/68e83054af0a8f99fc55032a1/ed8c210a5579f0933c6fb705c.js");</script>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37296213-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	</head>
+	<body>
+<!-- Facebook SDK -->
+<div id='fb-root'></div>
+<script type='text/javascript'>
+
+      // Load the SDK Asynchronously
+      (function(d){
+      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = '//connect.facebook.net/en_GB/all.js';
+      d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+
+</script>
+<!-- End Facebook SDK -->
+
+		<div class="wrapper" id="page">
+			<!-- Page Header -->
+			<header id="masthead">
+				<nav class="navbar navbar-static-top">
+					<div class="navbar-inner">
+						<div class="container-fluid">
+							<div class="container">
+								<a href="#menu" class="btn btn-navbar">
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</a>
+							</div>
+							<h1 class="brand">
+								<a class="brand pull-left" href="/">
+									<img src="https://supremeteknolite.com/images/supreme/supreme-logo.png" alt="Supreme Sales Corporation" /><p class="site-title hidden-phone" title="Supreme Sales Corporation">Sales Corporation</p>																	</a>
+							</h1>
+														<div class="top-search">
+								<div class="search mod_search107">
+	<form action="/gallery" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" size="20" placeholder="Search ..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="162" />
+	</form>
+</div>
+<ul class="mod-siteground-social inline" id="mod-201">
+			<li>
+			<a title="Find me on Facebook" class="fa-stack fa-lg" href="https://facebook.com/SupremeSalesCorporation" >
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+			  <span class="hidden">Facebook</span>
+			</a>
+		</li>
+						<li>
+			<a title="Send me an email with your default email program" class="fa-stack fa-lg" href="mailto:supreme1995@gmail.com">
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+			  <span class="hidden">Email</span>
+			</a>
+		</li>
+				<li>
+			<a title="Contact me through my contact form" class="fa-stack fa-lg" href="/contact-form">
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-send fa-stack-1x fa-inverse"></i>
+			  <span class="hidden">Contact form</span>
+			</a>
+		</li>
+		</ul>
+
+							</div>
+													</div>
+					</div>
+				</nav>
+			</header>
+			<!-- Main Menu -->
+			<nav class="navbar hidden-phone" data-spy="affix" data-offset-top="250">
+				<div class="navbar-inner">
+					<!-- <div class="container-fluid"> -->
+						<div class="nav-collapse collapse">
+							<ul class="nav menu">
+<li class="item-101 default"><a href="/" >Home</a></li><li class="item-119 deeper parent"><a href="/led/categoryproduct" >Teknolite Products</a><ul class="nav-child unstyled small"><li class="item-140"><a href="/led-panel" >LED PANEL</a></li></ul></li><li class="item-111"><a href="/contact-form" >Contact</a></li><li class="item-139"><a href="http://teknolite.in" target="_blank">Channel Partner</a></li><li class="item-162 current active"><a href="/gallery" >Gallery</a></li></ul>
+
+						</div>
+					<!-- </div> -->
+				</div>
+			</nav>
+			<!-- Main Content -->
+			<div id="content" role="main">
+				<!-- header -->
+								<!-- breadcrumb -->
+								<!-- content/component/sidebars -->
+				<div class="row-fluid component">
+										<main id="content" role="main" class="span12">
+					<!-- Begin Content -->
+					<div id="system-message-container">
+	</div>
+
+					<div id="phocagallery" class="pg-category-view pg-cv"><div class="page-header"><h1>Gallery - Led</h1></div><div id="pg-icons"><a href="/gallery?format=feed" title="RSS"><img src="/media/com_phocagallery/images/icon-feed.png" alt="RSS" /></a></div><div style="clear:both"></div><div id="pg-msnr-container">
+
+<div class="pg-cv-box item">
+ <div class="pg-cv-box-img pg-box1">
+  <div class="pg-box2">
+   <div class="pg-box3">
+<a class="pg-modal-button" title="" href="/2-led/detail/81-led?tmpl=component" rel="{handler: 'iframe', size: {x: 680, y: 560}, overlayOpacity: 0.3}" ><img src="/images/phocagallery/led/thumbs/phoca_thumb_m_zf.jpg" alt="Led" class="pg-image" /></a>
+</div></div></div>
+<div class="pg-cv-name">Led</div><div class="pg-icon-detail"> <a class="pg-modal-button" title="Detail" href="/2-led/detail/81-led?tmpl=component" rel="{handler: 'iframe', size: {x: 680, y: 560}, overlayOpacity: 0.3}" ><img src="/media/com_phocagallery/images/icon-view.png" alt="Detail" /></a> <a title="Download" href="/2-led/detail/81-led?phocadownload=2&amp;tmpl=component" ><img src="/media/com_phocagallery/images/icon-download.png" alt="Download" /></a></div>
+<div class="ph-cb"></div>
+</div>
+
+
+<div class="pg-cv-box item">
+ <div class="pg-cv-box-img pg-box1">
+  <div class="pg-box2">
+   <div class="pg-box3">
+<a class="pg-modal-button" title="" href="/2-led/detail/82-led?tmpl=component" rel="{handler: 'iframe', size: {x: 680, y: 560}, overlayOpacity: 0.3}" ><img src="/images/phocagallery/led/thumbs/phoca_thumb_m_zm.jpg" alt="Led" class="pg-image" /></a>
+</div></div></div>
+<div class="pg-cv-name">Led</div><div class="pg-icon-detail"> <a class="pg-modal-button" title="Detail" href="/2-led/detail/82-led?tmpl=component" rel="{handler: 'iframe', size: {x: 680, y: 560}, overlayOpacity: 0.3}" ><img src="/media/com_phocagallery/images/icon-view.png" alt="Detail" /></a> <a title="Download" href="/2-led/detail/82-led?phocadownload=2&amp;tmpl=component" ><img src="/media/com_phocagallery/images/icon-download.png" alt="Download" /></a></div>
+<div class="ph-cb"></div>
+</div>
+
+
+<div class="pg-cv-box item">
+ <div class="pg-cv-box-img pg-box1">
+  <div class="pg-box2">
+   <div class="pg-box3">
+<a class="pg-modal-button" title="" href="/2-led/detail/83-led?tmpl=component" rel="{handler: 'iframe', size: {x: 680, y: 560}, overlayOpacity: 0.3}" ><img src="/images/phocagallery/led/thumbs/phoca_thumb_m_zm30m.jpg" alt="Led" class="pg-image" /></a>
+</div></div></div>
+<div class="pg-cv-name">Led</div><div class="pg-icon-detail"> <a class="pg-modal-button" title="Detail" href="/2-led/detail/83-led?tmpl=component" rel="{handler: 'iframe', size: {x: 680, y: 560}, overlayOpacity: 0.3}" ><img src="/media/com_phocagallery/images/icon-view.png" alt="Detail" /></a> <a title="Download" href="/2-led/detail/83-led?phocadownload=2&amp;tmpl=component" ><img src="/media/com_phocagallery/images/icon-download.png" alt="Download" /></a></div>
+<div class="ph-cb"></div>
+</div>
+</div>
+<div class="ph-cb">&nbsp;</div><form action="https://supremeteknolite.com/category/2?lang=en&amp;limit=20&amp;start=80" method="post" name="adminForm">
+<div class="pagination pagination-centered">Ordering&nbsp;<select id="imgordering" name="imgordering" class="inputbox" size="1" onchange="this.form.submit()">
+	<option value="1" selected="selected">Ordering Ascending</option>
+	<option value="2">Ordering Descending</option>
+	<option value="3">Title Ascending</option>
+	<option value="4">Title Descending</option>
+	<option value="5">Date Ascending</option>
+	<option value="6">Date Descending</option>
+	<option value="11">Rating Count Ascending</option>
+	<option value="12">Rating Count Descending</option>
+	<option value="13">Rating Ascending</option>
+	<option value="14">Rating Descending</option>
+	<option value="15">Hits Ascending</option>
+	<option value="16">Hits Descending</option>
+</select>
+Display Num&nbsp;<select id="limit" name="limit" class="inputbox input-mini" size="1" onchange="this.form.submit()">
+	<option value="5">5</option>
+	<option value="10">10</option>
+	<option value="15">15</option>
+	<option value="20" selected="selected">20</option>
+	<option value="50">50</option>
+	<option value="0">All</option>
+</select>
+<div class="counter pull-right">Page 5 of 5</div><div class="pagination pagination-centered"><ul class="pagination-list"><li><a title="Start" href="/category/2?lang=en&amp;limit=20&amp;limitstart=0" class="pagenav"><i class="fa fa-angle-double-left"></i></a></li><li><a title="Prev" href="/category/2?lang=en&amp;limit=20&amp;start=60" class="pagenav"><i class="fa fa-chevron-left"></i></a></li><li class="hidden-phone"><a title="1" href="/category/2?lang=en&amp;limit=20&amp;limitstart=0" class="pagenav">1</a></li><li class="hidden-phone"><a title="2" href="/category/2?lang=en&amp;limit=20&amp;start=20" class="pagenav">2</a></li><li class="hidden-phone"><a title="3" href="/category/2?lang=en&amp;limit=20&amp;start=40" class="pagenav">3</a></li><li class="hidden-phone"><a title="4" href="/category/2?lang=en&amp;limit=20&amp;start=60" class="pagenav">...</a></li><li class="active hidden-phone"><a>5</a></li><li class="disabled"><a><i class="fa fa-chevron-right"></i></a></li><li class="disabled"><a><i class="fa fa-angle-double-right"></i></a></li></ul></div></div>
+<input type="hidden" name="controller" value="category" /><input type="hidden" name="1d5e68ea40f7fa0d387de979e2721d2a" value="1" /></form><div class="ph-cb pg-cv-paginaton">&nbsp;</div><div style="text-align:right;color:#ccc;display:block">Powered by <a href="http://www.phoca.cz/phocagallery">Phoca Gallery</a></div></div>
+					</main>
+									</div>
+				<!-- boxes -->
+								<!-- top -->
+								<!-- Info -->
+								<!-- middle -->
+								<!-- bottom -->
+								<section class="section section-padded bottom">
+					<div class="container-fluid">
+						<div class="row-fluid">
+							
+
+<div class="custom span3"  >
+	<p><img src="/images/supreme/supreme-logo.jpg" alt="email" width="245" height="274" /></p></div>
+
+
+<div class="custom span9"  >
+	<h2 style="text-align: center;">Become Authorized Channel Partner of Teknolite</h2>
+<p style="text-align: center;">So if you were waiting for the perfect time to seize this opportunity, the time is now.</p>
+<p style="text-align: center;"><strong>There are no obligations</strong></p>
+<p style="text-align: center;"><strong>Get a taste of SUCCESS!</strong></p>
+<p style="text-align: center;"><strong><span style="text-align: center;">So, act now...</span></strong></p>
+<p style="text-align: center;"><a class="btn btn-primary" title="Teknolite Dealer Registration Form" href="http://bit.ly/teknolite-dealer-registration" target="_blank">Teknolite Dealer Registration Form</a></p></div>
+
+						</div>
+					</div>
+				</section>
+							</div>
+		</div>
+		<!-- footer -->
+		<footer id="footer" role="contentinfo">
+			<div class="wrapper wrapper-transparent">
+				<div class="container-fluid">
+					<div class="row-fluid">
+						<div class="left">
+							&copy; 2017 Supreme Sales Corporation						</div>
+						<div class="right">
+							Developed with ♥ By <a href="mailto:gunjan.ce2009@gmail.com">Gunjan Patel</a>
+						</div>
+											</div>
+				</div>
+			</div>
+		</footer>
+				<nav id="menu">
+			<ul class="nav menu">
+<li class="item-101 default"><a href="/" >Home</a></li><li class="item-119 deeper parent"><a href="/led/categoryproduct" >Teknolite Products</a><ul class="nav-child unstyled small"><li class="item-140"><a href="/led-panel" >LED PANEL</a></li></ul></li><li class="item-111"><a href="/contact-form" >Contact</a></li><li class="item-139"><a href="http://teknolite.in" target="_blank">Channel Partner</a></li><li class="item-162 current active"><a href="/gallery" >Gallery</a></li></ul>
+
+		</nav>
+				
+		<script>
+			jQuery(function() {
+			jQuery('.deeper').addClass('dropdown');
+			jQuery('.nav-child').addClass('dropdown-menu');
+				});
+		</script>
+		<script type="text/javascript">
+				jQuery(document).ready(function() {
+		jQuery("nav#menu").mmenu({
+		classes : 'mm-light',
+							position : 'right'
+		});
+		});
+		</script>
+	</body>
